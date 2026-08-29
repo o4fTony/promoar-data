@@ -1,0 +1,4143 @@
+{
+ "updated": "Marzo 2026",
+ "promos": [
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "30% en supermercados con MODO los miércoles",
+   "desc": "30% en Carrefour, Coto, Chango Más, Día y mayoristas pagando con QR MODO desde BNA+. Crédito Visa o Mastercard.",
+   "value": "30%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Supermercados",
+    "MODO",
+    "BNA+"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "b",
+   "details": "Fuente: El Destape. Pagando con QR desde app BNA+ con MODO. No incluye electrónica ni telefonía."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "30% en combustible los viernes (MODO)",
+   "desc": "30% en YPF, Shell, Axion, Puma y Gulf los viernes pagando con MODO desde BNA+.",
+   "value": "30%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Combustible",
+    "MODO",
+    "BNA+"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: El Destape. Solo viernes de marzo. Con QR MODO desde BNA+."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "20% en combustible lun-jue (MODO)",
+   "desc": "20% en YPF, Shell, Axion, Puma y Gulf de lunes a jueves pagando con MODO desde BNA+.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Combustible",
+    "MODO"
+   ],
+   "when": "Lun a jue",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: El Destape. Complementario al 30% de los viernes."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "30% en farmacias y ópticas los lunes",
+   "desc": "30% en farmacias y ópticas adheridas los lunes + hasta 3 cuotas sin interés pagando con MODO.",
+   "value": "30%",
+   "tope": "Tope: $12.000/mes",
+   "tags": [
+    "Farmacias",
+    "Ópticas",
+    "MODO"
+   ],
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "cat": "b",
+   "details": "Fuente: El Destape / bna.com.ar. Tarjeta de crédito MODO BNA+. 3 CSI incluidas."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "25% en gastronomía sábados y domingos",
+   "desc": "25% en restaurantes y locales de comida los fines de semana pagando con MODO desde BNA+.",
+   "value": "25%",
+   "tope": "Tope: $8.000/semana",
+   "tags": [
+    "Gastronomía",
+    "MODO"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: El Destape. BNA+ MODO fines de semana."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "100% en transporte público con NFC",
+   "desc": "100% de devolución en colectivos y subte pagando con NFC (Google Pay/Apple Pay) con débito Visa BNA.",
+   "value": "100%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "SUBE"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: bna.com.ar / iProUP. Requiere débito Visa BNA vinculada a Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "20% en farmacias con 6 CSI (cuenta sueldo)",
+   "desc": "20% de descuento y 6 cuotas sin interés en farmacias para clientes con cuenta sueldo BNA.",
+   "value": "20% + 6 CSI",
+   "tope": "Tope: por compra",
+   "tags": [
+    "Farmacias",
+    "Cuenta sueldo"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: bna.com.ar/Personas/cuentasueldo. Exclusivo clientes con haberes en BNA."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "25% en gastronomía para clientes Platinum/Black",
+   "desc": "25% descuento en gastronomía y cuotas sin interés en entretenimiento para tarjetas Platinum o Black.",
+   "value": "25%",
+   "tope": "Tope: según segmento",
+   "tags": [
+    "Gastronomía",
+    "Premium",
+    "Platinum"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: bna.com.ar. Tarjetas Mastercard Platinum/Black y Visa Platinum/Signature."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "10% en librerías Yenny y El Ateneo",
+   "desc": "10% de reintegro en Yenny y El Ateneo con hasta 3 CSI.",
+   "value": "10%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Librerías",
+    "Cultura"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: 0221.com.ar. Con tarjetas BNA en Yenny y El Ateneo."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cashback",
+   "title": "20% en Cúspide los sábados",
+   "desc": "10% de reintegro y hasta 3 cuotas sin interés en Cúspide los sábados con tarjeta de crédito Visa/Mastercard BNA.",
+   "value": "10% + 3 CSI",
+   "tope": "Tope: $10.000/compra",
+   "tags": [
+    "Librerías",
+    "Cúspide"
+   ],
+   "when": "Sábado",
+   "days": [
+    "sabado",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Vigente hasta 31/03/2026. Con tarjeta crédito Visa y Mastercard BNA."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "cuotas",
+   "title": "12 CSI en tecnología vía BNA+",
+   "desc": "Hasta 12 cuotas sin interés en la tienda digital BNA+ en tecnología y electrodomésticos.",
+   "value": "12 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Electrodomésticos",
+    "BNA+"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: El Destape. Disponible en tienda digital BNA+. Hasta 18 CSI en fechas especiales."
+  },
+  {
+   "bank": "Banco Nación",
+   "type": "bonificacion",
+   "title": "4 puntos bonificados en tasa AgroNación/PymeNación",
+   "desc": "Bonificación de 4 puntos porcentuales en la tasa de diferimiento para tarjetas AgroNación y PymeNación.",
+   "value": "4 pts TNA",
+   "tope": "Válido hasta 31/03",
+   "tags": [
+    "Pyme",
+    "Agro",
+    "Empresas"
+   ],
+   "when": "Hasta 31/03",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: prensa.bna.com.ar. Para tarjetas AgroNación y PymeNación. Aplica todas las operaciones de feb y mar 2026."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "20-25% en Moov los jueves (MODO)",
+   "desc": "20% cartera general (25% Eminent) + 12 CSI en Moov los jueves pagando con MODO.",
+   "value": "20-25%",
+   "tope": "$30.000 general / $60.000 Eminent",
+   "tags": [
+    "Indumentaria",
+    "Moov",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Moov/moov.com.ar. Válido 12/03 al 26/03/2026 todos los jueves."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "20% en indumentaria deportiva los jueves (Sport 78)",
+   "desc": "20% de reintegro y hasta 9 CSI los jueves con tarjetas Galicia (Visa, Mastercard, Amex) pagando con MODO.",
+   "value": "20%",
+   "tope": "Tope: $40.000/campaña",
+   "tags": [
+    "Indumentaria",
+    "Deportes",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sport 78 / digitalsport.com.ar. Vigente 12, 19 y 26/03/2026."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "20-25% en Dexter los viernes",
+   "desc": "20% (25% Eminent) + hasta 6 CSI en Dexter los viernes con tarjetas Galicia pagando con MODO.",
+   "value": "20-25%",
+   "tope": "Tope: $50.000/mes",
+   "tags": [
+    "Indumentaria",
+    "Dexter",
+    "MODO"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Dexter/dexter.com.ar. Vigente 06/03 al 03/04/2026 todos los viernes."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "20% + 9 CSI en Stock Center los jueves",
+   "desc": "20% de reintegro y hasta 9 cuotas sin interés en Stock Center con tarjetas Galicia los jueves.",
+   "value": "20% + 9 CSI",
+   "tope": "Tope: $40.000",
+   "tags": [
+    "Deportes",
+    "Stock Center"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Stock Center / stockcenter.com.ar. Con Visa, Mastercard y Amex Galicia pagando con MODO."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "20-25% en Arredo los jueves (MODO)",
+   "desc": "20% (25% Eminent) + 12 CSI en Arredo los jueves pagando con MODO.",
+   "value": "20-25%",
+   "tope": "$30.000 / $60.000 Eminent",
+   "tags": [
+    "Muebles",
+    "Arredo",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. Vigente los jueves. Pagando con QR MODO desde app Galicia."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "25-30% en Coto Digital los jueves (Amex)",
+   "desc": "25% general (30% Eminent) en Coto Digital los jueves con tarjeta Amex Galicia.",
+   "value": "25-30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "Online"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. Solo en cotodigital.com.ar. Con tarjeta Amex Galicia."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "15-20% en FarmaOnline los jueves",
+   "desc": "15% (20% Eminent) + 6 CSI en FarmaOnline los jueves con tarjeta Galicia.",
+   "value": "15-20%",
+   "tope": "Tope: $8.000 / $10.000",
+   "tags": [
+    "Farmacias",
+    "Online",
+    "FarmaOnline"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: FarmaOnline/descuentazo. Exclusivo compras online."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "15% en Cúspide los lunes (online)",
+   "desc": "15% de ahorro + hasta 3 CSI en cuspide.com los lunes con tarjetas Galicia.",
+   "value": "15%",
+   "tope": "Sin tope",
+   "tags": [
+    "Librerías",
+    "Online",
+    "Cúspide"
+   ],
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Solo en cuspide.com. Válido hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "5% + 3 CSI en Rex todos los días",
+   "desc": "5% de ahorro y hasta 3 CSI en Rex con tarjetas Galicia (Débito, Visa, Mastercard, Amex).",
+   "value": "5% + 3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex/somosrex.com. Válido 01/02 al 30/04/2026."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "100% en transporte NFC (Mastercard)",
+   "desc": "$15.000 de reintegro al pagar subte y colectivo con Mastercard crédito Galicia vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "Mastercard"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: iProUP. Con Mastercard crédito Galicia vía Apple Pay/Google Pay/MODO. Débito Visa: $10.000 de reintegro."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "30% en Coto con Visa NFC los jueves",
+   "desc": "30% en Coto los jueves pagando con tarjeta Visa Galicia vía NFC (Google Pay, Apple Pay o MODO Contactless).",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo. Solo pago NFC con Visa Galicia."
+  },
+  {
+   "bank": "Banco Galicia",
+   "type": "cashback",
+   "title": "6 CSI en Galicia fines de semana en Sport 78",
+   "desc": "6 CSI con mínimo $120.000 y 9 CSI con mínimo $180.000 en Sport 78 los sábados y domingos.",
+   "value": "6-9 CSI",
+   "tope": "Mín: $120.000 / $180.000",
+   "tags": [
+    "Indumentaria",
+    "Deportes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sport 78. Con tarjetas de crédito Galicia. Válido sábados y domingos."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "30% en Coto los lunes con MODO",
+   "desc": "30% en Coto todos los lunes pagando con QR MODO desde app Santander. Crédito o débito Visa Santander.",
+   "value": "30%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "MODO"
+   ],
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. No acumulable. No incluye electrónica ni telefonía."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "25% en La Anónima los miércoles con MODO",
+   "desc": "25% en La Anónima todos los miércoles con QR MODO desde app Santander.",
+   "value": "25%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Supermercados",
+    "La Anónima",
+    "MODO"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. Reintegro en 48hs. No incluye electrónica."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "25% en Día los sábados",
+   "desc": "25% en Día los sábados pagando con tarjeta Santander crédito o débito Visa vía MODO.",
+   "value": "25%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Supermercados",
+    "Día"
+   ],
+   "when": "Sábado",
+   "days": [
+    "sabado",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. Reintegro en 30 días en cuenta asociada."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "25% en OpenSports y Trip sábados y domingos",
+   "desc": "25% en OpenSports y Trip pagando con tarjeta Santander Visa (crédito o débito) vía MODO los fines de semana.",
+   "value": "25%",
+   "tope": "Sin tope",
+   "tags": [
+    "Deportes",
+    "Viajes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. Reintegro en 30 días."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "30% en primeras 3 compras con Apple/Google Pay",
+   "desc": "30% en las primeras 3 compras NFC con Apple Pay o Google Pay con tarjeta Santander Visa.",
+   "value": "30%",
+   "tope": "Tope: $3.000/transacción",
+   "tags": [
+    "NFC",
+    "Apple Pay",
+    "Google Pay"
+   ],
+   "when": "Primeras 3 compras",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. Solo primeras 3 compras NFC del cliente. No acumulable."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "50% en peluquerías (tarjeta Women) mar y vie",
+   "desc": "50% en peluquerías los martes y viernes exclusivo con tarjeta Santander Women.",
+   "value": "50%",
+   "tope": "$3.000-$8.000 según segmento",
+   "tags": [
+    "Peluquerías",
+    "Women"
+   ],
+   "when": "Mar y vie",
+   "days": [
+    "martes",
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Getnet. Vigente 01/03 al 31/03/2026. Tarjeta Santander Women crédito/débito."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "25% en gastronomía mañanas 6-11hs (QR)",
+   "desc": "25% en gastronomía de 6 a 11hs en las primeras 10 ventas del día pagando con QR Santander Visa.",
+   "value": "25%",
+   "tope": "Tope: $1.000/venta · $10.000/mes",
+   "tags": [
+    "Gastronomía",
+    "QR"
+   ],
+   "when": "Todos los días 6-11hs",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Getnet. Vigente 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "25% en marcas deportivas (Adidas, Nike, Crocs)",
+   "desc": "25% en Adidas, Crocs, Nike, Reebok y más con tarjeta Santander Visa crédito y débito vía MODO.",
+   "value": "25%",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Deportes",
+    "Adidas"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. En locales adheridos de todo el país."
+  },
+  {
+   "bank": "Santander",
+   "type": "descuento",
+   "title": "15% en Mostaza los miércoles (Super Miércoles)",
+   "desc": "15% de descuento en Mostaza los miércoles con tarjeta Santander Visa débito o crédito.",
+   "value": "15%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Gastronomía",
+    "Mostaza"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "b",
+   "details": "Fuente: 0221.com.ar Super Miércoles. Programa Super Miércoles de Santander."
+  },
+  {
+   "bank": "Santander",
+   "type": "descuento",
+   "title": "15% en Yenny y El Ateneo (Super Miércoles)",
+   "desc": "15% en Yenny y El Ateneo los miércoles con tarjeta Santander + 3 cuotas sin interés.",
+   "value": "15% + 3 CSI",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Librerías",
+    "Yenny",
+    "El Ateneo"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "b",
+   "details": "Fuente: 0221.com.ar. Programa Super Miércoles Santander."
+  },
+  {
+   "bank": "Santander",
+   "type": "cuotas",
+   "title": "9 CSI en Sodimac con Visa Santander",
+   "desc": "Hasta 9 cuotas sin interés en Sodimac y sodimac.com con tarjeta Visa Santander.",
+   "value": "9 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Hogar",
+    "Construcción",
+    "Sodimac"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sodimac. Vigente marzo 2026 en CABA, GBA y Provincia."
+  },
+  {
+   "bank": "Santander",
+   "type": "cashback",
+   "title": "20% reintegro + 15 CSI en Style Store (Visa)",
+   "desc": "20% de reintegro y financiación en 15 cuotas sin interés en Style Store con Visa Santander.",
+   "value": "20% + 15 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Online"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Descuentazo. En sitio web Style Store con Visa crédito Santander."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cashback",
+   "title": "10% en farmacias los lunes con QR MODO",
+   "desc": "10% de reintegro los lunes con QR MODO con tarjeta de crédito BBVA. Hasta 3 CSI.",
+   "value": "10%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Farmacias",
+    "MODO",
+    "QR"
+   ],
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Farmaonline. Válido lunes 01/01 al 30/04/2026. Reintegro dentro de 60 días."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cashback",
+   "title": "30% en Dexter los martes (MODO)",
+   "desc": "30% en Dexter los martes pagando con QR MODO con tarjeta Visa o Mastercard BBVA.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Dexter",
+    "MODO"
+   ],
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Dexter/descuentazo. Vigente todos los martes 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cashback",
+   "title": "3 CSI en Moov todos los días (MODO)",
+   "desc": "Hasta 3 CSI sin mínimo y 6 CSI con mínimo $149.999 en Moov con tarjetas BBVA pagando con MODO.",
+   "value": "3-6 CSI",
+   "tope": "Mín: sin/con $149.999",
+   "tags": [
+    "Indumentaria",
+    "Moov",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Moov/moov.com.ar. Válido 01/01 al 31/03/2026."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cashback",
+   "title": "3 CSI en Stock Center todos los días (MODO)",
+   "desc": "Hasta 3 CSI sin mínimo y 6 CSI con mínimo $149.999 en Stock Center con tarjetas BBVA.",
+   "value": "3-6 CSI",
+   "tope": "Mín: sin/con $149.999",
+   "tags": [
+    "Deportes",
+    "Stock Center",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Stock Center. Vigente 01/01 al 31/03/2026 con tarjeta Visa o Mastercard BBVA."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves pagando con tarjeta Visa BBVA vía NFC (Google Pay, Apple Pay o MODO).",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo. Solo pago NFC con Visa BBVA."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cuotas",
+   "title": "3 MSI en compras desde $8.700 (20-31/03)",
+   "desc": "3 meses sin interés en compras de $8.700 o más del 20 al 31 de marzo con tarjeta BBVA.",
+   "value": "3 MSI",
+   "tope": "Mínimo $8.700",
+   "tags": [
+    "Cuotas",
+    "Crédito"
+   ],
+   "when": "20-31 Marzo",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Promodescuentos. Aplicado automáticamente con tarjeta de crédito BBVA."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cuotas",
+   "title": "3-6 CSI en Rex todos los días",
+   "desc": "Hasta 3 CSI sin mínimo y 6 CSI con mínimo $149.999 en Rex con tarjetas BBVA.",
+   "value": "3-6 CSI",
+   "tope": "Sin/con mínimo",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex/somosrex.com. Válido 01/01 al 31/03/2026."
+  },
+  {
+   "bank": "BBVA",
+   "type": "cashback",
+   "title": "6 CSI en NaranjaX fin de semana (Sport 78)",
+   "desc": "8 CSI los fines de semana en Sport 78 con NaranjaX (13, 14, 27 y 28/03).",
+   "value": "8 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Deportes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sport 78. Con NaranjaX en sucursales Sport 78."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cashback",
+   "title": "20% en Carrefour los miércoles",
+   "desc": "20% en Carrefour los miércoles con tarjeta de crédito Patagonia.",
+   "value": "20%",
+   "tope": "Tope: $12.500/mes",
+   "tags": [
+    "Supermercados",
+    "Carrefour"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sitio Andino. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cashback",
+   "title": "30% en Vea y Jumbo los sábados",
+   "desc": "30% en Vea y Jumbo los sábados con tarjeta de crédito Patagonia.",
+   "value": "30%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Supermercados",
+    "Vea",
+    "Jumbo"
+   ],
+   "when": "Sábado",
+   "days": [
+    "sabado",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sitio Andino. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cashback",
+   "title": "15-30% en Moov los jueves (según segmento)",
+   "desc": "15% clásica, 20% plan sueldo, 25% Singular, 30% sueldo/jubilados en Moov los jueves.",
+   "value": "15-30%",
+   "tope": "$10.000-$20.000 según segmento",
+   "tags": [
+    "Indumentaria",
+    "Moov"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Moov. Hasta 6 CSI. Vigente 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cuotas",
+   "title": "10% + 3 CSI en Cúspide todos los días",
+   "desc": "10% de descuento y hasta 3 CSI en Cúspide con tarjetas Patagonia.",
+   "value": "10% + 3 CSI",
+   "tope": "Tope: $5.000",
+   "tags": [
+    "Librerías",
+    "Cúspide"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cashback",
+   "title": "20% en estaciones de servicio los jueves",
+   "desc": "20% en estaciones de servicio adheridas los jueves. Acepta crédito, débito o MODO.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Combustible",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sitio Andino. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cuotas",
+   "title": "10% + 3 CSI en Rex todos los días",
+   "desc": "10% de descuento y hasta 3 CSI en Rex con tarjetas de crédito y débito Patagonia.",
+   "value": "10% + 3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex. Vigente 01/01 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Patagonia",
+   "type": "cashback",
+   "title": "15-30% en Dexter los jueves (según segmento)",
+   "desc": "15-30% según segmento en Dexter los jueves con tarjeta Patagonia.",
+   "value": "15-30%",
+   "tope": "Tope: $10.000-$20.000",
+   "tags": [
+    "Indumentaria",
+    "Dexter"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Dexter. Vigente 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Macro",
+   "type": "cashback",
+   "title": "25% en Makro martes y jueves",
+   "desc": "25% en Makro los martes y jueves con tarjeta de crédito Macro.",
+   "value": "25%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Mayorista",
+    "Makro"
+   ],
+   "when": "Mar y jue",
+   "days": [
+    "martes",
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Makro. Válido 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Macro",
+   "type": "cashback",
+   "title": "20-30% en Stock Center los jueves (MODO)",
+   "desc": "20% cartera general, 25% preferencial, 30% Selecta + 6-9 CSI en Stock Center los jueves.",
+   "value": "20-30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Deportes",
+    "Stock Center",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Stock Center. Vigente 05/02 al 12/03/2026 los jueves. Con MODO o tarjeta física."
+  },
+  {
+   "bank": "Banco Macro",
+   "type": "cashback",
+   "title": "10% + 10% MODO + 10% sueldo en Stock Center",
+   "desc": "10% base + 10% adicional MODO + 10% si acreditás sueldo en Macro = hasta 30% total.",
+   "value": "Hasta 30%",
+   "tope": "$20.000 por beneficio",
+   "tags": [
+    "Deportes",
+    "Stock Center",
+    "Sueldo"
+   ],
+   "when": "Lun a vie",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Stock Center. Acumulable. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Macro",
+   "type": "cuotas",
+   "title": "6 CSI en Moov con mínimo de compra (MODO)",
+   "desc": "Hasta 6 CSI y hasta 9 CSI con mínimo $149.999 en Moov con tarjetas Macro pagando con MODO.",
+   "value": "6-9 CSI",
+   "tope": "Sin/con mínimo $149.999",
+   "tags": [
+    "Indumentaria",
+    "Moov",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Moov. Vigente 01/01 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Macro",
+   "type": "cashback",
+   "title": "25% en Tiento los miércoles (MODO)",
+   "desc": "25% en Tiento los miércoles pagando con tarjeta Macro a través de MODO.",
+   "value": "25%",
+   "tope": "Tope: $20.000",
+   "tags": [
+    "Indumentaria",
+    "Tiento",
+    "MODO"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sitio Andino. Pagando con MODO con tarjeta Macro."
+  },
+  {
+   "bank": "Banco Macro",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves pagando con tarjeta Visa Macro vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "type": "descuento",
+   "title": "30% en carnicerías y granjas (Buepp)",
+   "desc": "30% en carnicerías, granjas y pescaderías de CABA a través de la billetera Buepp de Banco Ciudad.",
+   "value": "30%",
+   "tope": "Sin tope indicado",
+   "tags": [
+    "Carnicerías",
+    "Alimentos",
+    "CABA",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Infobae 12/03/2026. A través de billetera virtual Buepp de Banco Ciudad."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "type": "cuotas",
+   "title": "20% + 6 CSI en Moov los martes (MODO)",
+   "desc": "20% de descuento y hasta 6 CSI en Moov pagando con Banco Ciudad vía MODO los martes.",
+   "value": "20% + 6 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Moov",
+    "MODO"
+   ],
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Moov. Vigente 01/01 al 30/06/2026 los martes."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "type": "cuotas",
+   "title": "20% + 6 CSI en Dexter los martes (MODO)",
+   "desc": "20% + 6 CSI en Dexter los martes con Ciudad vía MODO.",
+   "value": "20% + 6 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Dexter",
+    "MODO"
+   ],
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Dexter. Vigente 01/01 al 30/06/2026. Solo QR MODO desde Buepp o App Ciudad."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "type": "cashback",
+   "title": "20% en Cúspide los viernes",
+   "desc": "20% y hasta 3 CSI con tarjeta Ciudad en Cúspide los viernes.",
+   "value": "20% + 3 CSI",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Librerías",
+    "Cúspide"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "type": "cuotas",
+   "title": "3 CSI con todas las tarjetas todos los días (Cúspide)",
+   "desc": "Hasta 3 CSI en Cúspide con cualquier tarjeta Banco Ciudad.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Librerías",
+    "Cúspide"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cuotas",
+   "title": "3-9 CSI en Moov todos los días",
+   "desc": "Hasta 3 CSI sin mínimo y 9 CSI con mínimo $150.000 en Moov con tarjetas ICBC.",
+   "value": "3-9 CSI",
+   "tope": "Mín: sin/$150.000",
+   "tags": [
+    "Indumentaria",
+    "Moov",
+    "Cuotas"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Moov. Vigente 05/12/2025 al 31/03/2026."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cuotas",
+   "title": "3-9 CSI en Dexter todos los días",
+   "desc": "Hasta 3 CSI sin mínimo y 9 CSI con mínimo $150.000 en Dexter con tarjetas ICBC.",
+   "value": "3-9 CSI",
+   "tope": "Mín: sin/$150.000",
+   "tags": [
+    "Indumentaria",
+    "Dexter"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Dexter. Con tarjetas Visa y Mastercard ICBC."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cuotas",
+   "title": "3-9 CSI en Stock Center todos los días",
+   "desc": "Hasta 9 CSI en Stock Center con tarjetas de crédito ICBC.",
+   "value": "3-9 CSI",
+   "tope": "Mín: $150.000 para 9 CSI",
+   "tags": [
+    "Deportes",
+    "Stock Center"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Stock Center. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cashback",
+   "title": "10% + 6 CSI en Rex todos los días",
+   "desc": "10% de ahorro y hasta 6 CSI en Rex con tarjeta ICBC Visa o Mastercard.",
+   "value": "10% + 6 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex. Vigente 01/01 al 31/03/2026."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cuotas",
+   "title": "3 CSI con MODO en Cúspide todos los días",
+   "desc": "Hasta 3 CSI en Cúspide con tarjetas ICBC pagando con MODO.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Librerías",
+    "Cúspide",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Vigente hasta 31/03/2026."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cashback",
+   "title": "15% en indumentaria deportiva los viernes (ICBC Exclusive)",
+   "desc": "15% (20% Exclusive) + 6 CSI en Sport 78 los viernes con tarjetas ICBC.",
+   "value": "15-20%",
+   "tope": "Tope: $30.000",
+   "tags": [
+    "Indumentaria",
+    "Deportes"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Sport 78/digitalsport.com.ar. Tope $30.000 por transacción."
+  },
+  {
+   "bank": "ICBC",
+   "type": "cashback",
+   "title": "100% en transporte NFC",
+   "desc": "100% de reintegro al pagar subte y colectivo con tarjeta ICBC vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: iProUP. Con tarjeta ICBC en Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Banco Hipotecario",
+   "type": "cashback",
+   "title": "25% en Makro con QR MODO",
+   "desc": "25% en Makro con débito Visa Hipotecario via QR MODO desde App BH.",
+   "value": "25%",
+   "tope": "$10.000 general / $30.000 Búho",
+   "tags": [
+    "Mayorista",
+    "Makro",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Makro. Vigente 01/03 al 31/03/2026. Clientes Búho tope $30.000."
+  },
+  {
+   "bank": "Banco Credicoop",
+   "type": "cuotas",
+   "title": "3 CSI en Rex con tarjeta Cabal todos los días",
+   "desc": "3 CSI en Rex con tarjeta Cabal Credicoop todos los días.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex",
+    "Cabal"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex. Vigente 01/01 al 31/03/2026. Tarjetas Cabal Credicoop."
+  },
+  {
+   "bank": "Banco Credicoop",
+   "type": "cashback",
+   "title": "10% + 6 CSI en Cúspide 5-6/03 (Cabal y Visa)",
+   "desc": "10% de reintegro y hasta 6 CSI en Cúspide los días 5 y 6 de marzo con tarjetas Credicoop.",
+   "value": "10% + 6 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Librerías",
+    "Cúspide"
+   ],
+   "when": "5-6 Marzo",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Cúspide. Solo 5 y 6 de marzo 2026. Con Cabal y Visa Credicoop."
+  },
+  {
+   "bank": "Banco Credicoop",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves pagando con Visa Credicoop vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Banco Supervielle",
+   "type": "cashback",
+   "title": "20-25% en Jumbo, Disco, Vea y ChangoMás los martes",
+   "desc": "20% general (25% Identité/plan sueldo) los martes en Jumbo, Disco, Vea y ChangoMás.",
+   "value": "20-25%",
+   "tope": "$25.000 débito / $15.000 QR",
+   "tags": [
+    "Supermercados",
+    "Jumbo",
+    "Disco"
+   ],
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Infobae. Débito físico tope $25.000, QR tope $15.000."
+  },
+  {
+   "bank": "Banco Supervielle",
+   "type": "cuotas",
+   "title": "3-4 CSI en Bidcom todos los días",
+   "desc": "Hasta 3-4 cuotas sin interés en Bidcom con tarjetas Visa y Mastercard Supervielle.",
+   "value": "3-4 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Electrodomésticos",
+    "Bidcom"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Bidcom. Vigente 09/03 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Supervielle",
+   "type": "cashback",
+   "title": "20-25% en comercios con MODO todos los días",
+   "desc": "20% general (25% Identité/plan sueldo) en comercios adheridos con MODO.",
+   "value": "20-25%",
+   "tope": "$8.000 general / $15.000 Identité",
+   "tags": [
+    "Comercios",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: minutouno.com. Con tarjeta Supervielle vía MODO."
+  },
+  {
+   "bank": "Banco Supervielle",
+   "type": "descuento",
+   "title": "50% en farmacias adheridas",
+   "desc": "50% de descuento en farmacias adheridas con tarjeta Supervielle.",
+   "value": "50%",
+   "tope": "Con tope",
+   "tags": [
+    "Farmacias",
+    "Salud"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Infobae. Vigente marzo 2026 en farmacias adheridas."
+  },
+  {
+   "bank": "Banco Comafi",
+   "type": "cashback",
+   "title": "25% en Coto los sábados con MODO",
+   "desc": "25% en Coto los sábados pagando con MODO con tarjeta Comafi.",
+   "value": "25%",
+   "tope": "Tope: $10.000/transacción",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "MODO"
+   ],
+   "when": "Sábado",
+   "days": [
+    "sabado",
+    "finde"
+   ],
+   "cat": "b",
+   "details": "Fuente: minutouno.com. Con tarjeta Comafi vía MODO en Coto."
+  },
+  {
+   "bank": "Banco Comafi",
+   "type": "cashback",
+   "title": "20% en Diarco lun-vie con MODO",
+   "desc": "20% en Diarco de lunes a viernes con tarjetas Visa/Mastercard Comafi vía MODO.",
+   "value": "20%",
+   "tope": "Tope: $15.000/semana",
+   "tags": [
+    "Mayorista",
+    "Diarco",
+    "MODO"
+   ],
+   "when": "Lun a vie",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes"
+   ],
+   "cat": "b",
+   "details": "Fuente: Diarco. Vigente 01/02 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Comafi",
+   "type": "cuotas",
+   "title": "5% + 6 CSI en Rex (Comafi general) / 10% + 9 CSI (Único)",
+   "desc": "5% + 6 CSI general o 10% + 9 CSI con Comafi Único (Signature/Platinum) en Rex.",
+   "value": "5-10% + 6-9 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex. Vigente 01/02 al 30/04/2026."
+  },
+  {
+   "bank": "Banco Comafi",
+   "type": "cuotas",
+   "title": "3 CSI en Makro con Banco Comafi",
+   "desc": "3 CSI en Makro pagando con tarjeta Banco Comafi. Válido todos los días.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Mayorista",
+    "Makro"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Makro. Vigente 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "Banco Itaú",
+   "type": "descuento",
+   "title": "30% en streaming con débito automático",
+   "desc": "30% en Netflix, Spotify y Disney+ con débito automático Itaú.",
+   "value": "30%",
+   "tope": "Tope: $2.500/mes",
+   "tags": [
+    "Streaming",
+    "Netflix",
+    "Spotify"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Aplica en débitos automáticos de Netflix, Spotify y Disney+."
+  },
+  {
+   "bank": "Banco Itaú",
+   "type": "cuotas",
+   "title": "3 CSI en comercios adheridos todos los días",
+   "desc": "Hasta 3 CSI en comercios adheridos con tarjeta Itaú.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Comercios",
+    "Cuotas"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Con tarjeta de crédito Visa o Mastercard Itaú en comercios adheridos."
+  },
+  {
+   "bank": "HSBC",
+   "type": "cashback",
+   "title": "20% en supermercados los jueves con MODO",
+   "desc": "20% en Coto, Carrefour y adheridos los jueves con tarjeta HSBC vía MODO.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Supermercados",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Vigente marzo 2026. Con tarjetas Visa o Mastercard HSBC."
+  },
+  {
+   "bank": "HSBC",
+   "type": "cuotas",
+   "title": "5% + 3 CSI en Rex todos los días",
+   "desc": "5% de ahorro y hasta 3 CSI en Rex con tarjetas de crédito y débito HSBC.",
+   "value": "5% + 3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "b",
+   "details": "Fuente: Rex/somosrex.com. Vigente 01/01 al 31/03/2026."
+  },
+  {
+   "bank": "HSBC",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves pagando con tarjeta Visa HSBC vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "b",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Cuenta DNI",
+   "type": "cashback",
+   "title": "20% en carnicerías y granjas lun-vie",
+   "desc": "20% en carnicerías, granjas y pescaderías de CABA y GBA pagando con Cuenta DNI.",
+   "value": "20%",
+   "tope": "Tope: $5.000/semana",
+   "tags": [
+    "Carnicerías",
+    "Alimentos",
+    "Provincia"
+   ],
+   "when": "Lun a vie",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes"
+   ],
+   "cat": "f",
+   "details": "Fuente: Infobae 12/03/2026."
+  },
+  {
+   "bank": "Cuenta DNI",
+   "type": "cashback",
+   "title": "40% en ferias y mercados de Provincia",
+   "desc": "40% en ferias y mercados de la Provincia de Buenos Aires.",
+   "value": "40%",
+   "tope": "Tope: $6.000/semana",
+   "tags": [
+    "Ferias",
+    "Mercados",
+    "Provincia"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Infobae 12/03/2026."
+  },
+  {
+   "bank": "Cuenta DNI",
+   "type": "cashback",
+   "title": "10% + 4 CSI en Cúspide todos los días",
+   "desc": "10% de descuento y hasta 4 CSI con tarjetas Visa/Mastercard Banco Provincia en Cúspide.",
+   "value": "10% + 4 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Librerías",
+    "Cúspide"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Cúspide. Vigente hasta 30/04/2026."
+  },
+  {
+   "bank": "Cuenta DNI",
+   "type": "cashback",
+   "title": "30% en gastronomía fines de semana",
+   "desc": "30% en restaurantes y rotiserías de la Provincia de Buenos Aires los fines de semana.",
+   "value": "30%",
+   "tope": "Tope: $4.000/semana",
+   "tags": [
+    "Gastronomía",
+    "Restaurantes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: Cuenta DNI beneficios."
+  },
+  {
+   "bank": "Mercado Pago",
+   "type": "cashback",
+   "title": "Reintegro en farmacias mar y jue",
+   "desc": "Reintegro al comprar en farmacias adheridas los martes y jueves con Mercado Pago.",
+   "value": "Reintegro",
+   "tope": "Tope: $16.000/mes",
+   "tags": [
+    "Farmacias",
+    "QR"
+   ],
+   "when": "Mar y jue",
+   "days": [
+    "martes",
+    "jueves"
+   ],
+   "cat": "f",
+   "details": "Fuente: Farmaonline. Válido 10/03 al 31/03/2026."
+  },
+  {
+   "bank": "Mercado Pago",
+   "type": "cashback",
+   "title": "100% en transporte público NFC",
+   "desc": "100% en colectivos y subte con tarjeta MP vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "SUBE"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. Con tarjeta MP en Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Mercado Pago",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves con tarjeta Visa MP vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "f",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Mercado Pago",
+   "type": "cashback",
+   "title": "20% en delivery fines de semana",
+   "desc": "20% en Rappi, PedidosYa y Uber Eats los sábados y domingos con Mercado Pago.",
+   "value": "20%",
+   "tope": "Tope: $3.000/pedido",
+   "tags": [
+    "Delivery",
+    "Rappi",
+    "PedidosYa"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: Mercado Pago beneficios. Válido sábados y domingos de marzo."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "cashback",
+   "title": "100% en transporte NFC",
+   "desc": "100% de reintegro al pagar subte y colectivo con tarjeta prepaga Naranja X vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "SUBE"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. Con tarjeta prepaga Naranja X en Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "descuento",
+   "title": "20% en FarmaOnline los jueves",
+   "desc": "20% en FarmaOnline los jueves con tarjeta de crédito Naranja X.",
+   "value": "20%",
+   "tope": "Tope: $12.000",
+   "tags": [
+    "Farmacias",
+    "Online",
+    "FarmaOnline"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "f",
+   "details": "Fuente: Farmaonline. Válido jueves 5, 12, 19 y 26 de marzo 2026."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "2x1",
+   "title": "2×1 en Cinemark Hoyts online",
+   "desc": "2×1 en entradas de cine en Cinemark Hoyts comprando online con tarjeta Naranja X.",
+   "value": "2×1",
+   "tope": "Solo online",
+   "tags": [
+    "Cine",
+    "Entretenimiento",
+    "Cinemark"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Descuentazo. Solo compras online. No aplica en venta presencial."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "cuotas",
+   "title": "3 CSI en Makro todos los días (Plan Z)",
+   "desc": "3 cuotas cero interés en Makro con tarjeta Naranja X todos los días.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Mayorista",
+    "Makro"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Makro. Válido 01/03 al 31/03/2026."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "cuotas",
+   "title": "3-6 CSI en Stock Center todos los días",
+   "desc": "Hasta 3 CSI sin mínimo y 6 CSI con mínimo en Stock Center con Naranja X.",
+   "value": "3-6 CSI",
+   "tope": "Mín: $99.999 para 5-6 CSI",
+   "tags": [
+    "Deportes",
+    "Stock Center"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Stock Center. Con Naranja X clásica y oro."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "cuotas",
+   "title": "3-6 CSI en Moov todos los días (Plan Z)",
+   "desc": "3 CSI sin mínimo y 6 CSI con mínimo en Moov con Naranja X.",
+   "value": "3-6 CSI",
+   "tope": "Mín: $149.999 para 6 CSI",
+   "tags": [
+    "Indumentaria",
+    "Moov"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Moov. Con Naranja X clásica y oro."
+  },
+  {
+   "bank": "Naranja X",
+   "type": "cashback",
+   "title": "8 CSI en Sport 78 fines de semana",
+   "desc": "8 CSI en Sport 78 los fines de semana (13, 14, 27 y 28/03) con Naranja X.",
+   "value": "8 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Indumentaria",
+    "Deportes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: Sport 78. Válido 13, 14, 27 y 28 de marzo."
+  },
+  {
+   "bank": "Uala",
+   "type": "cashback",
+   "title": "100% en transporte — mayor tope del mercado",
+   "desc": "100% en colectivos y subte con tarjeta Ualá vía NFC. $15.000 para colectivos + $15.000 para subte.",
+   "value": "100%",
+   "tope": "Tope: $30.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "SUBE"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. Con tarjeta Ualá en Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Uala",
+   "type": "descuento",
+   "title": "25% en Jumbo, Disco y Vea los lunes",
+   "desc": "25% con Mastercard Ualá los lunes en Jumbo, Disco y Vea.",
+   "value": "25%",
+   "tope": "Tope: $2.500/transacción",
+   "tags": [
+    "Supermercados",
+    "Jumbo",
+    "Disco"
+   ],
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. También 15% en Carrefour Express (tope $1.000)."
+  },
+  {
+   "bank": "Uala",
+   "type": "cashback",
+   "title": "30% en Pedidos Ya Market los miércoles",
+   "desc": "30% en Pedidos Ya Market los miércoles con tarjeta Ualá.",
+   "value": "30%",
+   "tope": "Con tope",
+   "tags": [
+    "Delivery",
+    "PedidosYa"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. Válido en Pedidos Ya Market."
+  },
+  {
+   "bank": "Uala",
+   "type": "descuento",
+   "title": "30% en Farmacity lun-vie (QR)",
+   "desc": "30% en Farmacity, Simplicity y Get the Look de lunes a viernes con QR Ualá.",
+   "value": "30%",
+   "tope": "Con tope",
+   "tags": [
+    "Farmacias",
+    "Farmacity"
+   ],
+   "when": "Lun a vie",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. Pagando con QR Ualá."
+  },
+  {
+   "bank": "Uala",
+   "type": "cashback",
+   "title": "10% en turismo y viajes fines de semana",
+   "desc": "10% en Despegar, Airbnb y plataformas de viaje los fines de semana con tarjeta Ualá.",
+   "value": "10%",
+   "tope": "Tope: $5.000/transacción",
+   "tags": [
+    "Turismo",
+    "Viajes",
+    "Despegar"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: iProUP. Con tarjeta Ualá Mastercard."
+  },
+  {
+   "bank": "Personal Pay",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves con tarjeta Visa Personal Pay vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "f",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Personal Pay",
+   "type": "cashback",
+   "title": "10% en viajes fines de semana",
+   "desc": "10% en Despegar y Airbnb los fines de semana con saldo Personal Pay.",
+   "value": "10%",
+   "tope": "Tope: $5.000",
+   "tags": [
+    "Turismo",
+    "Viajes",
+    "Despegar"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: Personal Pay beneficios."
+  },
+  {
+   "bank": "Brubank",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves con tarjeta Visa Brubank vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "f",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Brubank",
+   "type": "cashback",
+   "title": "100% en transporte NFC",
+   "desc": "100% en subte y colectivo con tarjeta Brubank vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "SUBE"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Brubank. Con Google Pay, Apple Pay o MODO Contactless."
+  },
+  {
+   "bank": "Brubank",
+   "type": "cashback",
+   "title": "15% en gastronomía fines de semana",
+   "desc": "15% en restaurantes y bares adheridos los sábados y domingos con débito Brubank.",
+   "value": "15%",
+   "tope": "Tope: $3.000",
+   "tags": [
+    "Gastronomía",
+    "Restaurantes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: Brubank beneficios."
+  },
+  {
+   "bank": "MODO",
+   "type": "cashback",
+   "title": "25% en Makro los jueves (red MODO)",
+   "desc": "25% en Makro los jueves pagando con QR MODO desde apps de bancos adheridos (Santander, BNA, Galicia, BBVA, Macro y más).",
+   "value": "25%",
+   "tope": "Tope: $20.000/banco/mes",
+   "tags": [
+    "Mayorista",
+    "Makro",
+    "QR"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "f",
+   "details": "Fuente: Makro/modo.com.ar. Entidades adheridas: Santander, BNA, Galicia, BBVA, Macro, ICBC, Supervielle, Credicoop, Ciudad y más."
+  },
+  {
+   "bank": "MODO",
+   "type": "cashback",
+   "title": "25% en gastronomía sábados y domingos",
+   "desc": "25% en restaurantes adheridos los fines de semana pagando con cualquier tarjeta vía MODO.",
+   "value": "25%",
+   "tope": "Tope: $5.000",
+   "tags": [
+    "Gastronomía",
+    "Restaurantes"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: modo.com.ar/promos. Válido en restaurantes adheridos a la red MODO."
+  },
+  {
+   "bank": "MODO",
+   "type": "cashback",
+   "title": "20% en Diarco los viernes",
+   "desc": "20% en Diarco los viernes pagando con QR MODO.",
+   "value": "20%",
+   "tope": "Tope: $20.000/semana",
+   "tags": [
+    "Mayorista",
+    "Diarco"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "cat": "f",
+   "details": "Fuente: Diarco. Vigente 13/02 al 31/03/2026."
+  },
+  {
+   "bank": "Galicia Move",
+   "type": "cashback",
+   "title": "5% + 3 CSI en Rex todos los días",
+   "desc": "5% de ahorro y hasta 3 CSI en Rex con tarjeta Galicia (incluye Move).",
+   "value": "5% + 3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Tecnología",
+    "Rex"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Rex. Vigente 01/02 al 30/04/2026."
+  },
+  {
+   "bank": "Galicia Move",
+   "type": "cashback",
+   "title": "20% en entretenimiento fines de semana",
+   "desc": "20% en cines, teatros y entretenimiento los sábados y domingos.",
+   "value": "20%",
+   "tope": "Tope: $3.500",
+   "tags": [
+    "Cine",
+    "Entretenimiento",
+    "Teatro"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "f",
+   "details": "Fuente: Galicia Move beneficios."
+  },
+  {
+   "bank": "Galicia Move",
+   "type": "cashback",
+   "title": "Descuentos en Havanna, Starbucks, Jumbo y Vea",
+   "desc": "Reintegros en gastronomía (Havanna, Starbucks) y supermercados (Jumbo, Vea).",
+   "value": "Varios",
+   "tope": "Según comercio",
+   "tags": [
+    "Gastronomía",
+    "Supermercados",
+    "Havanna"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Fuente: Cronista/Galicia."
+  },
+  {
+   "bank": "Wilobank",
+   "type": "cashback",
+   "title": "Cashback en Disco, Vea y supermercados adheridos",
+   "desc": "Reintegro en Disco, Vea y supermercados adheridos con débito Wilobank.",
+   "value": "8%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Disco",
+    "Vea"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Con débito Visa Wilobank."
+  },
+  {
+   "bank": "Wilobank",
+   "type": "cashback",
+   "title": "100% en transporte NFC",
+   "desc": "100% en subte y colectivo con tarjeta Wilobank vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Con tarjeta Wilobank en Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Rebanking",
+   "type": "descuento",
+   "title": "20% en gastronomía lun-vie",
+   "desc": "20% en restaurantes y cafeterías adheridas lunes a viernes con Rebanking.",
+   "value": "20%",
+   "tope": "Con tope",
+   "tags": [
+    "Gastronomía",
+    "Restaurantes"
+   ],
+   "when": "Lun a vie",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes"
+   ],
+   "cat": "f",
+   "details": "En restaurantes adheridos de todo el país."
+  },
+  {
+   "bank": "Rebanking",
+   "type": "cashback",
+   "title": "100% en transporte NFC",
+   "desc": "100% en subte y colectivo con tarjeta Rebanking vía NFC.",
+   "value": "100%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Con tarjeta Rebanking en Google Pay o Apple Pay."
+  },
+  {
+   "bank": "Prex",
+   "type": "descuento",
+   "title": "15% en gastronomía jue y vie",
+   "desc": "15% en restaurantes y bares los jueves y viernes con tarjeta Prex.",
+   "value": "15%",
+   "tope": "Con tope",
+   "tags": [
+    "Gastronomía",
+    "Restaurantes"
+   ],
+   "when": "Jue y vie",
+   "days": [
+    "jueves",
+    "viernes"
+   ],
+   "cat": "f",
+   "details": "En restaurantes y bares adheridos."
+  },
+  {
+   "bank": "Pibank",
+   "type": "cashback",
+   "title": "5% cashback en compras online",
+   "desc": "5% de reintegro en tiendas online con tarjeta Pibank todos los días.",
+   "value": "5%",
+   "tope": "Sin tope",
+   "tags": [
+    "Online",
+    "eCommerce"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "f",
+   "details": "Aplica en tiendas online adheridas. Se acredita en 24hs."
+  },
+  {
+   "bank": "Lemon Cash",
+   "type": "cashback",
+   "title": "2% cashback en BTC pagando con crypto",
+   "desc": "2% en Bitcoin al pagar con crypto usando la tarjeta Visa Lemon. 0.5% con pesos.",
+   "value": "2% BTC",
+   "tope": "Tope: $21.000/mes",
+   "tags": [
+    "Bitcoin",
+    "Crypto",
+    "Visa"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Fuente: LB Finanzas. 2% con cripto, 0.5% con pesos."
+  },
+  {
+   "bank": "Lemon Cash",
+   "type": "descuento",
+   "title": "10% off en Netflix con tarjeta Lemon",
+   "desc": "10% en la suscripción de Netflix pagando con tarjeta Lemon.",
+   "value": "10%",
+   "tope": "Por mes",
+   "tags": [
+    "Streaming",
+    "Netflix"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Aplica en el débito automático mensual de Netflix."
+  },
+  {
+   "bank": "Lemon Cash",
+   "type": "cashback",
+   "title": "2.5% cashback extra fines de semana",
+   "desc": "2.5% cashback en BTC en compras los sábados y domingos con tarjeta Lemon.",
+   "value": "2.5% BTC",
+   "tope": "Tope: $8.000",
+   "tags": [
+    "Bitcoin",
+    "BTC"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "c",
+   "details": "Fuente: Lemon Cash beneficios. Extra solo fines de semana."
+  },
+  {
+   "bank": "Lemon Cash",
+   "type": "descuento",
+   "title": "Hasta 15% pagando con PIX en Brasil",
+   "desc": "Hasta 15% en compras al pagar con PIX desde Lemon en Brasil.",
+   "value": "15%",
+   "tope": "Por compra",
+   "tags": [
+    "Internacional",
+    "Brasil",
+    "PIX"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Para usuarios argentinos que viajan a Brasil."
+  },
+  {
+   "bank": "Ripio",
+   "type": "cashback",
+   "title": "2% cashback en BTC, ETH o stablecoins",
+   "desc": "2% en cripto al pagar con Ripio Card. 0.5% con pesos. Nuevos usuarios: 4% primer mes.",
+   "value": "2% crypto",
+   "tope": "Tope: $30.000/mes",
+   "tags": [
+    "Bitcoin",
+    "Ethereum",
+    "USDT"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Fuente: LB Finanzas. Nuevos: 4% con cripto y 1% con pesos los primeros 30 días."
+  },
+  {
+   "bank": "Ripio",
+   "type": "bonificacion",
+   "title": "4% cashback primeros 30 días (nuevos)",
+   "desc": "Nuevos usuarios: 4% en cripto y 1% en pesos durante los primeros 30 días.",
+   "value": "4% crypto",
+   "tope": "Primeros 30 días",
+   "tags": [
+    "Bitcoin",
+    "Nuevo usuario"
+   ],
+   "when": "Primer mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Exclusivo para nuevos usuarios de la Ripio Card."
+  },
+  {
+   "bank": "Ripio",
+   "type": "descuento",
+   "title": "Spread -30% en ETH fines de semana",
+   "desc": "Menor spread al comprar Ethereum los fines de semana en Ripio.",
+   "value": "Spread -30%",
+   "tope": "Sin mínimo",
+   "tags": [
+    "Ethereum",
+    "ETH"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "c",
+   "details": "Para cuentas verificadas de Ripio."
+  },
+  {
+   "bank": "Ripio",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves con tarjeta Visa Ripio vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "c",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Buenbit",
+   "type": "cashback",
+   "title": "1.5% cashback en DAI con tarjeta Buenbit",
+   "desc": "1.5% en DAI al usar la tarjeta Buenbit en comercios. 0% comisión en operaciones crypto.",
+   "value": "1.5% DAI",
+   "tope": "Sin límite",
+   "tags": [
+    "DAI",
+    "Stablecoin",
+    "Crypto"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Fuente: Coin Bureau. Sin límite de acumulación."
+  },
+  {
+   "bank": "Buenbit",
+   "type": "descuento",
+   "title": "Spread -50% en USDT y DAI",
+   "desc": "Menor spread en compra de USDT y DAI con pesos argentinos.",
+   "value": "Spread -50%",
+   "tope": "Sin mínimo",
+   "tags": [
+    "USDT",
+    "DAI",
+    "Stablecoins"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Para cuentas verificadas de Buenbit."
+  },
+  {
+   "bank": "Buenbit",
+   "type": "descuento",
+   "title": "Spread -60% en USDT fines de semana",
+   "desc": "Mayor reducción de spread en USDT los fines de semana en Buenbit.",
+   "value": "Spread -60%",
+   "tope": "Sin mínimo",
+   "tags": [
+    "USDT"
+   ],
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "cat": "c",
+   "details": "Exclusivo para fines de semana. Mayor beneficio de la semana."
+  },
+  {
+   "bank": "Belo",
+   "type": "cashback",
+   "title": "1% cashback en USDT al pagar",
+   "desc": "1% en USDT al pagar con tarjeta Belo en cualquier comercio.",
+   "value": "1% USDT",
+   "tope": "Sin tope",
+   "tags": [
+    "USDT",
+    "Crypto",
+    "Visa"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Se acredita en wallet Belo en 24hs."
+  },
+  {
+   "bank": "Belo",
+   "type": "bonificacion",
+   "title": "Sin comisión primeras 5 transferencias del mes",
+   "desc": "Cero comisión en las primeras 5 transferencias mensuales con Belo.",
+   "value": "$0 FEE",
+   "tope": "Primeras 5/mes",
+   "tags": [
+    "Transferencias",
+    "Fee"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Se reinicia el 1ro de cada mes."
+  },
+  {
+   "bank": "Belo",
+   "type": "cashback",
+   "title": "30% en Coto con NFC (Visa) los jueves",
+   "desc": "30% en Coto los jueves con tarjeta Visa Belo vía NFC.",
+   "value": "30%",
+   "tope": "Sin tope",
+   "tags": [
+    "Supermercados",
+    "Coto",
+    "NFC"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "cat": "c",
+   "details": "Fuente: Coto legales. Todos los jueves de marzo."
+  },
+  {
+   "bank": "Bitso",
+   "type": "bonificacion",
+   "title": "0% comisión en operaciones el primer mes",
+   "desc": "Sin comisiones en compra y venta de criptos durante el primer mes.",
+   "value": "0% FEE",
+   "tope": "Primer mes",
+   "tags": [
+    "Crypto",
+    "Trading",
+    "Bitcoin"
+   ],
+   "when": "Primer mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Para nuevos usuarios de Bitso en Argentina."
+  },
+  {
+   "bank": "Bitso",
+   "type": "descuento",
+   "title": "Spread reducido en USDT y BTC",
+   "desc": "Menor spread al operar USDT y BTC con pesos en Bitso.",
+   "value": "Spread -20%",
+   "tope": "Sin mínimo",
+   "tags": [
+    "USDT",
+    "Bitcoin"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Para cuentas verificadas de Bitso Argentina."
+  },
+  {
+   "bank": "Satoshi Tango",
+   "type": "cashback",
+   "title": "0.5% cashback en BTC al pagar",
+   "desc": "0.5% en Bitcoin Satoshi al pagar con tarjeta Satoshi Tango en comercios adheridos.",
+   "value": "0.5% BTC",
+   "tope": "Sin límite",
+   "tags": [
+    "Bitcoin",
+    "BTC",
+    "Sats"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "El cashback se acredita en satoshis en tu wallet."
+  },
+  {
+   "bank": "Let'sBit",
+   "type": "bonificacion",
+   "title": "Sin fee en primer depósito de crypto",
+   "desc": "Sin comisión en el primer depósito de cualquier criptomoneda para nuevos usuarios.",
+   "value": "FREE",
+   "tope": "Solo primer depósito",
+   "tags": [
+    "Crypto",
+    "Fee"
+   ],
+   "when": "Nuevos usuarios",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Para nuevos usuarios de Let'sBit."
+  },
+  {
+   "bank": "Binance AR",
+   "type": "descuento",
+   "title": "0% comisión en par BTC/USDT",
+   "desc": "Sin comisión en el par BTC/USDT para cuentas argentinas verificadas.",
+   "value": "0% FEE",
+   "tope": "Sin límite",
+   "tags": [
+    "Bitcoin",
+    "USDT",
+    "Trading"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Cuenta argentina verificada en Binance."
+  },
+  {
+   "bank": "Cocos Crypto",
+   "type": "cashback",
+   "title": "0.5% cashback en operaciones DeFi",
+   "desc": "0.5% en tokens COCOS al operar en la plataforma (swap, liquidez).",
+   "value": "0.5% COCOS",
+   "tope": "Sin límite",
+   "tags": [
+    "DeFi",
+    "Token"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "cat": "c",
+   "details": "Aplica en swap y liquidez en Cocos Crypto."
+  }
+ ],
+ "cupones": [
+  {
+   "store": "YPF Serviclub",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en Infinia los lunes (App YPF)",
+   "value": "10%",
+   "tope": "$3.500/semana",
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "tags": [
+    "Combustible",
+    "YPF",
+    "App"
+   ],
+   "link": "https://www.ypf.com",
+   "desc": "10% en nafta Infinia y diesel los lunes pagando con la App YPF. Acumulable con otros beneficios.",
+   "details": "Fuente: canal26/infobae. Con App YPF en estaciones adheridas. Tope $3.500 semanal."
+  },
+  {
+   "store": "Shell Box",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en Quantium lunes y viernes (app ON Axion)",
+   "value": "10%",
+   "tope": "$6.500-$12.000/mes",
+   "when": "Lun y vie",
+   "days": [
+    "lunes",
+    "viernes"
+   ],
+   "tags": [
+    "Combustible",
+    "Shell",
+    "Axion"
+   ],
+   "link": "https://www.shell.com.ar",
+   "desc": "10% en combustibles Quantium los lunes y viernes usando la app ON de Axion Energy.",
+   "details": "Fuente: canal26. App ON de Axion. Tope varía según nivel del usuario."
+  },
+  {
+   "store": "Banco Galicia",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10-15% en combustible los lunes (Axion/YPF)",
+   "value": "10-15%",
+   "tope": "$10.000-$15.000/mes",
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "tags": [
+    "Combustible",
+    "Galicia",
+    "MODO"
+   ],
+   "link": "https://www.galicia.ar",
+   "desc": "10% pagando con Mastercard Galicia vía MODO en YPF y Axion. 15% para clientes Éminent.",
+   "details": "Fuente: infobae/canal26. Con Mastercard Galicia vía MODO en estaciones YPF y Axion adheridas."
+  },
+  {
+   "store": "Mercado Pago",
+   "type": "cashback",
+   "catTienda": "combustible",
+   "title": "30% en combustible los lunes",
+   "value": "30%",
+   "tope": "$6.000/mes",
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "tags": [
+    "Combustible",
+    "MercadoPago"
+   ],
+   "link": "https://www.mercadopago.com.ar",
+   "desc": "30% pagando con tarjeta de crédito física Mercado Pago los lunes en estaciones de servicio.",
+   "details": "Fuente: mdzol. Con tarjeta crédito física MP en estaciones adheridas. Tope $6.000 mensual."
+  },
+  {
+   "store": "Banco Comafi",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10-20% en Axion los lunes (MODO)",
+   "value": "10-20%",
+   "tope": "$5.000-$8.000/semana",
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "tags": [
+    "Combustible",
+    "Comafi",
+    "MODO"
+   ],
+   "link": "https://www.comafi.com.ar",
+   "desc": "10% para clientes estándar y hasta 20% para Premium/Platinum en Axion los lunes pagando con MODO.",
+   "details": "Fuente: canal26. Con tarjetas Comafi vía MODO en Axion. Unique Black: 20% tope $10.000."
+  },
+  {
+   "store": "PedidosYa",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "Descuentos Hoy — hasta 50% los lunes",
+   "value": "Hasta 50%",
+   "tope": "Restaurantes del día",
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "tags": [
+    "Delivery",
+    "Gastronomía"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "Sección Descuentos Hoy con hasta 50% en restaurantes seleccionados todos los lunes.",
+   "details": "Fuente: descuentazo. Los restaurantes participantes cambian cada día en la app PedidosYa."
+  },
+  {
+   "store": "Cabify",
+   "type": "descuento",
+   "catTienda": "transporte",
+   "title": "25% para clientes Banco Hipotecario",
+   "value": "25%",
+   "tope": "Todos los días",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Transporte",
+    "Cabify",
+    "Hipotecario"
+   ],
+   "link": "https://www.cabify.com/ar",
+   "desc": "25% de descuento en viajes Cabify para socios del Banco Hipotecario, todos los días.",
+   "details": "Fuente: picodi.com.ar. Para clientes Banco Hipotecario. Aplica todos los días de la semana."
+  },
+  {
+   "store": "Burger King",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "40% OFF en Burger King los martes (app)",
+   "value": "40%",
+   "tope": "Por compra",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "FastFood",
+    "Gastronomía",
+    "App"
+   ],
+   "link": "https://www.burgerking.com.ar",
+   "desc": "40% de descuento en compras los martes exclusivamente a través de la app móvil de Burger King.",
+   "details": "Fuente: descuentazo. No combinable con otras ofertas. No válido para delivery."
+  },
+  {
+   "store": "Banco Supervielle",
+   "type": "descuento",
+   "catTienda": "supermercados",
+   "title": "20-25% en Jumbo, Disco, Vea y ChangoMás",
+   "value": "20-25%",
+   "tope": "$25.000 débito / $15.000 QR",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "Supermercados",
+    "Jumbo",
+    "Disco"
+   ],
+   "link": "https://www.supervielle.com.ar",
+   "desc": "20% general (25% Identité/plan sueldo) en Jumbo, Disco, Vea y ChangoMás los martes.",
+   "details": "Fuente: infobae. Débito físico tope $25.000, QR tope $15.000."
+  },
+  {
+   "store": "ICBC",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "15% en combustible los martes (cuenta sueldo)",
+   "value": "15%",
+   "tope": "$15.000/mes",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "Combustible",
+    "ICBC",
+    "MODO"
+   ],
+   "link": "https://www.icbc.com.ar",
+   "desc": "15% en estaciones de servicio para clientes ICBC con cuenta sueldo vía MODO los martes.",
+   "details": "Fuente: infobae/canal26. Solo para cuentas sueldo ICBC. Con MODO."
+  },
+  {
+   "store": "Banco Hipotecario",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "15% en YPF los martes (Búho One)",
+   "value": "15%",
+   "tope": "$8.000/mes",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "Combustible",
+    "YPF",
+    "Hipotecario"
+   ],
+   "link": "https://www.hipotecario.com.ar",
+   "desc": "15% en YPF los martes para clientes Búho One con Visa Signature o Platinum vía App YPF.",
+   "details": "Fuente: infobae. Solo para clientes Búho One. Con Visa Signature o Platinum desde App YPF."
+  },
+  {
+   "store": "Cinemark Hoyts",
+   "type": "2x1",
+   "catTienda": "entretenimiento",
+   "title": "2×1 en entradas los martes",
+   "value": "2×1",
+   "tope": "Con tarjetas adheridas",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "Cine",
+    "Entretenimiento"
+   ],
+   "link": "https://www.hoyts.com.ar",
+   "desc": "2×1 en entradas de cine los martes con tarjetas bancarias adheridas en Hoyts.",
+   "details": "Verificá cuáles tarjetas aplican en hoyts.com.ar."
+  },
+  {
+   "store": "PedidosYa",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "35% en PedidosYa con Banco Macro (martes)",
+   "value": "35%",
+   "tope": "$6.000/mes",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "Delivery",
+    "Macro",
+    "PedidosYa"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "35% de reintegro en PedidosYa con tarjeta Visa crédito Banco Macro los martes (PedidosYa Plus).",
+   "details": "Fuente: descuentazo. Solo para usuarios PedidosYa Plus. Tope $6.000 por cuenta por mes."
+  },
+  {
+   "store": "YPF Serviclub",
+   "type": "cashback",
+   "catTienda": "combustible",
+   "title": "10% en Infinia los martes (App YPF)",
+   "value": "10%",
+   "tope": "$500/semana",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "Combustible",
+    "YPF"
+   ],
+   "link": "https://www.ypf.com",
+   "desc": "10% pagando con la App YPF en Infinia nafta e Infinia diesel los martes.",
+   "details": "Fuente: ambito. Con App YPF en estaciones adheridas."
+  },
+  {
+   "store": "Shell Box",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en V-Power los miércoles (Shell Box)",
+   "value": "10%",
+   "tope": "$4.000/semana",
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "tags": [
+    "Combustible",
+    "Shell",
+    "App"
+   ],
+   "link": "https://www.shell.com.ar",
+   "desc": "10% en combustibles V-Power los miércoles usando la app Shell Box.",
+   "details": "Fuente: canal26/infobae. Descarga Shell Box y pagá en estaciones Shell adheridas."
+  },
+  {
+   "store": "Puma Pris",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en nafta súper los miércoles (Puma Pris)",
+   "value": "10%",
+   "tope": "50 litros/día",
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "tags": [
+    "Combustible",
+    "Puma",
+    "App"
+   ],
+   "link": "https://www.pumaenergy.com",
+   "desc": "10% en nafta súper, premium e Ion Diesel los miércoles con la app Puma Pris.",
+   "details": "Fuente: canal26. Con app Puma Pris pagando con tarjeta, débito o Mercado Pago."
+  },
+  {
+   "store": "Banco Macro",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "20-30% en combustible los miércoles (Macro)",
+   "value": "20-30%",
+   "tope": "$15.000-$25.000/mes",
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "tags": [
+    "Combustible",
+    "Macro",
+    "MODO"
+   ],
+   "link": "https://www.macro.com.ar",
+   "desc": "20% para clientes Platinum y 30% para Selecta en YPF, Shell y Axion los miércoles.",
+   "details": "Fuente: infobae/canal26. Con MODO o Visa Signature/Platinum. Tope: $15.000 Platinum / $25.000 Selecta."
+  },
+  {
+   "store": "MODO",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en Shell los miércoles (MODO)",
+   "value": "10%",
+   "tope": "$2.400/mes",
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "tags": [
+    "Combustible",
+    "MODO",
+    "Shell"
+   ],
+   "link": "https://www.modo.com.ar",
+   "desc": "10% en Shell los miércoles pagando con MODO. Aplica para clientes de BBVA, ICBC, Patagonia, Santander y más.",
+   "details": "Fuente: ambito. Con MODO en estaciones Shell adheridas. Aplican bancos: BBVA, ICBC, Patagonia, Santander, Galicia, Macro, Nación, HSBC."
+  },
+  {
+   "store": "Cinemark",
+   "type": "2x1",
+   "catTienda": "entretenimiento",
+   "title": "2×1 en entradas los miércoles",
+   "value": "2×1",
+   "tope": "Con tarjetas adheridas",
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "tags": [
+    "Cine",
+    "Entretenimiento"
+   ],
+   "link": "https://www.cinemark.com.ar",
+   "desc": "2×1 en entradas de cine los miércoles con tarjetas bancarias adheridas en Cinemark.",
+   "details": "Verificá cuáles tarjetas aplican en cinemark.com.ar."
+  },
+  {
+   "store": "Uala",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "30% en Pedidos Ya Market los miércoles",
+   "value": "30%",
+   "tope": "Con tope",
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "tags": [
+    "Delivery",
+    "Ualá",
+    "PedidosYa"
+   ],
+   "link": "https://www.uala.com.ar",
+   "desc": "30% de reintegro en Pedidos Ya Market los miércoles pagando con tarjeta Ualá.",
+   "details": "Fuente: iProUP. Con tarjeta Ualá en Pedidos Ya Market los miércoles."
+  },
+  {
+   "store": "PedidosYa",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "30% en PedidosYa con IUDÚ (mié y jue)",
+   "value": "20-30%",
+   "tope": "$3.500-$7.000/mes",
+   "when": "Mié y jue",
+   "days": [
+    "miercoles",
+    "jueves"
+   ],
+   "tags": [
+    "Delivery",
+    "PedidosYa",
+    "Visa"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "30% con Visa/Mastercard Platinum, Signature o Black. 20% cartera general IUDÚ. Miércoles y jueves.",
+   "details": "Fuente: descuentazo. Tope $7.000 general, $3.500 IUDÚ. Solo en web/app PedidosYa."
+  },
+  {
+   "store": "Burger King",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "40% OFF en Burger King los jueves (app)",
+   "value": "40%",
+   "tope": "Por compra",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "FastFood",
+    "Gastronomía",
+    "App"
+   ],
+   "link": "https://www.burgerking.com.ar",
+   "desc": "40% de descuento en compras los jueves exclusivamente a través de la app móvil de Burger King.",
+   "details": "Fuente: descuentazo. No combinable con otras ofertas. No válido para delivery."
+  },
+  {
+   "store": "Banco Santander",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en YPF los jueves (Visa Black/Platinum)",
+   "value": "10%",
+   "tope": "$7.500/mes",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "Combustible",
+    "Santander",
+    "YPF"
+   ],
+   "link": "https://www.santander.com.ar",
+   "desc": "10% en YPF los jueves pagando con tarjetas Visa Black o Platinum Santander desde la App YPF.",
+   "details": "Fuente: infobae. Solo Visa Black o Platinum Santander desde App YPF."
+  },
+  {
+   "store": "Banco Patagonia",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "20-25% en combustible los jueves",
+   "value": "20-25%",
+   "tope": "$7.500-$15.000/mes",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "Combustible",
+    "Patagonia"
+   ],
+   "link": "https://www.bancopatagonia.com.ar",
+   "desc": "20% clásico, hasta 25% Singular en estaciones adheridas los jueves con tarjeta Patagonia.",
+   "details": "Fuente: mdzol. Con tarjeta Patagonia en estaciones de servicio adheridas."
+  },
+  {
+   "store": "Shell Jumbo+",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en V-Power los jueves (Jumbo+ / Vea Ahorro)",
+   "value": "10%",
+   "tope": "$4.000/semana",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "Combustible",
+    "Shell",
+    "Jumbo"
+   ],
+   "link": "https://www.shell.com.ar",
+   "desc": "10% en Shell V-Power los jueves para socios Jumbo+ o Vea Ahorro desde Shell Box. +5% con tarjeta Cencosud.",
+   "details": "Fuente: infobae/canal26. Socios Jumbo+ o Vea Ahorro. +5% adicional pagando con crédito Cencopay."
+  },
+  {
+   "store": "Naranja X",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "20% en FarmaOnline los jueves",
+   "value": "20%",
+   "tope": "$12.000",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "Farmacias",
+    "Online",
+    "NaranjaX"
+   ],
+   "link": "https://www.farmaonline.com",
+   "desc": "20% en FarmaOnline los jueves con tarjeta de crédito Naranja X.",
+   "details": "Fuente: farmaonline. Válido jueves de marzo 2026."
+  },
+  {
+   "store": "PedidosYa",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "35% en PedidosYa con Banco Patagonia (jueves)",
+   "value": "30-35%",
+   "tope": "$5.000-$6.000/mes",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "Delivery",
+    "Patagonia",
+    "PedidosYa"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "35% Singular, 30% clásico/plus en PedidosYa con tarjeta de crédito Patagonia los jueves.",
+   "details": "Fuente: descuentazo. Acumulable con otras promociones del portal. Tope: $6.000 Singular / $5.000 resto."
+  },
+  {
+   "store": "YOY Banco",
+   "type": "cashback",
+   "catTienda": "supermercados",
+   "title": "20% en MásOnline y ChangoMás los jueves (YOY)",
+   "value": "20%",
+   "tope": "$10.000/semana",
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "tags": [
+    "Supermercados",
+    "ChangoMás",
+    "MODO"
+   ],
+   "link": "https://www.yoydigital.com.ar",
+   "desc": "20% en MásOnline y ChangoMás con tarjeta Mastercard o Visa débito YOY pagando con MODO los jueves.",
+   "details": "Fuente: descuentazo. Con MODO o integración en app YOY. No acumulable."
+  },
+  {
+   "store": "Shell Box",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10% en Quantium los viernes (app ON Axion)",
+   "value": "10%",
+   "tope": "$12.000/mes",
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "tags": [
+    "Combustible",
+    "Axion",
+    "App"
+   ],
+   "link": "https://www.shell.com.ar",
+   "desc": "10% en combustibles Quantium los viernes con la app ON de Axion Energy.",
+   "details": "Fuente: canal26. App ON Axion. Tope mensual varía según nivel del usuario."
+  },
+  {
+   "store": "Banco Credicoop",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "15-20% en combustible los viernes (MODO)",
+   "value": "15-20%",
+   "tope": "$6.000/semana",
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "tags": [
+    "Combustible",
+    "Credicoop",
+    "MODO"
+   ],
+   "link": "https://www.bancocredicoop.coop",
+   "desc": "15-20% según categoría de cliente en combustible los viernes pagando con MODO con tarjeta Credicoop.",
+   "details": "Fuente: mdzol. Cuenta sueldo Credicoop vía MODO. Tope $6.000 semanal."
+  },
+  {
+   "store": "ICBC",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "15% en FarmaOnline los viernes con ICBC",
+   "value": "15%",
+   "tope": "$3.000-$5.000/transacción",
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "tags": [
+    "Farmacias",
+    "ICBC",
+    "Online"
+   ],
+   "link": "https://www.farmaonline.com",
+   "desc": "15% en FarmaOnline con tarjeta Visa/Mastercard ICBC los viernes. Con MODO suma hasta $5.000 de tope.",
+   "details": "Fuente: descuentazo. Con MODO: tope $5.000. Sin MODO: tope $3.000 por transacción."
+  },
+  {
+   "store": "Banco Comafi",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10-20% en Puma los viernes (MODO)",
+   "value": "10-20%",
+   "tope": "$5.000-$10.000/semana",
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "tags": [
+    "Combustible",
+    "Comafi",
+    "Puma"
+   ],
+   "link": "https://www.comafi.com.ar",
+   "desc": "10% estándar, hasta 20% Premium/Platinum en Puma Energy los viernes con MODO.",
+   "details": "Fuente: canal26. Con tarjetas Comafi vía MODO en Puma. Único Black: 20% tope $10.000."
+  },
+  {
+   "store": "Personal Pay",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "20% en PedidosYa vie, sáb y dom (Personal Pay)",
+   "value": "20%",
+   "tope": "$2.000-$6.000 según nivel",
+   "when": "Vie/Sáb/Dom",
+   "days": [
+    "viernes",
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Delivery",
+    "PedidosYa"
+   ],
+   "link": "https://www.personalpay.com.ar",
+   "desc": "20% de reintegro en PedidosYa los viernes, sábados y domingos pagando con VISA Personal Pay.",
+   "details": "Fuente: descuentazo. Tope: $2.000 Nivel 1, $4.000 Nivel 2, $6.000 Nivel 3."
+  },
+  {
+   "store": "Brubank",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "20% en Axion vie, sáb y dom (Plan Plus)",
+   "value": "20-30%",
+   "tope": "$4.000-$30.000/semana",
+   "when": "Vie a dom",
+   "days": [
+    "viernes",
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Combustible",
+    "Brubank",
+    "Axion"
+   ],
+   "link": "https://www.brubank.com.ar",
+   "desc": "20% Plan Plus vie/sáb/dom. Plan Ultra: 30% todos los días con tope $30.000 mensual en Axion.",
+   "details": "Fuente: canal26/mdzol. Con Visa Brubank. Plan Plus: tope $4.000/semana. Ultra: $6.000/operación."
+  },
+  {
+   "store": "Banco Comafi",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10-20% en YPF los sábados (MODO)",
+   "value": "10-20%",
+   "tope": "$5.000-$10.000/semana",
+   "when": "Sábado",
+   "days": [
+    "sabado",
+    "finde"
+   ],
+   "tags": [
+    "Combustible",
+    "Comafi",
+    "YPF"
+   ],
+   "link": "https://www.comafi.com.ar",
+   "desc": "10% estándar, hasta 20% para Premium/Platinum en YPF los sábados pagando con MODO.",
+   "details": "Fuente: canal26. Con tarjetas Comafi vía MODO en YPF. Único Black: 20% tope $10.000."
+  },
+  {
+   "store": "Naranja X",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "30% en PedidosYa sáb y dom (débito Naranja X)",
+   "value": "30%",
+   "tope": "Stock: 200.000 beneficios",
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Delivery",
+    "NaranjaX",
+    "PedidosYa"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "30% de reintegro en PedidosYa los sábados y domingos pagando con débito Naranja X.",
+   "details": "Fuente: descuentazo. Válido hasta agotar stock de 200.000 beneficios."
+  },
+  {
+   "store": "Personal Pay",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "20% en PedidosYa los sábados (Personal Pay)",
+   "value": "20%",
+   "tope": "$2.000-$6.000 según nivel",
+   "when": "Sábado",
+   "days": [
+    "sabado",
+    "finde"
+   ],
+   "tags": [
+    "Delivery",
+    "PedidosYa",
+    "Personal Pay"
+   ],
+   "link": "https://www.personalpay.com.ar",
+   "desc": "20% en PedidosYa los sábados con VISA Personal Pay. Tope varía según nivel de cuenta.",
+   "details": "Fuente: descuentazo. Niveles: $2.000 N1, $4.000 N2, $6.000 N3."
+  },
+  {
+   "store": "Banco Galicia",
+   "type": "cuotas",
+   "catTienda": "indumentaria",
+   "title": "6-9 CSI en Sport 78 los fines de semana",
+   "value": "6-9 CSI",
+   "tope": "Mín $120.000-$180.000",
+   "when": "Sáb y dom",
+   "days": [
+    "sabado",
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Indumentaria",
+    "Deportes",
+    "Sport78"
+   ],
+   "link": "https://www.sport78.com.ar",
+   "desc": "6 CSI con mínimo $120.000 y 9 CSI con mínimo $180.000 en Sport 78 los sábados y domingos.",
+   "details": "Con tarjetas de crédito Galicia. Válido sábados y domingos."
+  },
+  {
+   "store": "Banco Ciudad",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "10-15% en combustible los domingos (MODO)",
+   "value": "10-15%",
+   "tope": "$10.000-$15.000/mes",
+   "when": "Domingo",
+   "days": [
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Combustible",
+    "Ciudad",
+    "MODO"
+   ],
+   "link": "https://www.bancociudad.com.ar",
+   "desc": "10% con MODO o Buepp, 15% para jubilados y plan sueldo en combustible los domingos.",
+   "details": "Fuente: infobae/canal26. Con MODO o Buepp en estaciones de servicio. Tope: $10.000 general / $15.000 con plan sueldo o jubilados."
+  },
+  {
+   "store": "Banco Comafi",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "20% en Shell/Axion los domingos (Único)",
+   "value": "20%",
+   "tope": "$10.000/semana",
+   "when": "Domingo",
+   "days": [
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Combustible",
+    "Comafi",
+    "Shell"
+   ],
+   "link": "https://www.comafi.com.ar",
+   "desc": "20% para clientes Único en Shell y Axion los domingos pagando con MODO. Ahorrá hasta $50.000 en marzo.",
+   "details": "Fuente: infobae. Marzo tiene 5 domingos. Para clientes Único Black Comafi. Con MODO."
+  },
+  {
+   "store": "Naranja X",
+   "type": "cashback",
+   "catTienda": "gastronomia",
+   "title": "30% en PedidosYa los domingos (débito NX)",
+   "value": "30%",
+   "tope": "Stock: 200.000 beneficios",
+   "when": "Domingo",
+   "days": [
+    "domingo",
+    "finde"
+   ],
+   "tags": [
+    "Delivery",
+    "NaranjaX",
+    "PedidosYa"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "30% en PedidosYa los domingos con débito Naranja X. Hasta agotar stock.",
+   "details": "Fuente: descuentazo. Con débito Naranja X en PedidosYa."
+  },
+  {
+   "store": "YPF Serviclub",
+   "type": "cashback",
+   "catTienda": "combustible",
+   "title": "6% todos los días 0-6am (Serviclub)",
+   "value": "6%",
+   "tope": "Sin tope",
+   "when": "Todos los días 0-6am",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Combustible",
+    "YPF",
+    "Nocturno"
+   ],
+   "link": "https://www.ypf.com",
+   "desc": "6% de descuento todos los días cargando entre las 0 y 6am con la App YPF. Sin tope de reintegro.",
+   "details": "Fuente: canal26/infobae. Con App YPF entre 0:00 y 6:00am. Sin tope. Acumulable con autodespacho."
+  },
+  {
+   "store": "YPF Serviclub",
+   "type": "cashback",
+   "catTienda": "combustible",
+   "title": "3% en autodespacho (acumulable)",
+   "value": "3%",
+   "tope": "Sin tope",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Combustible",
+    "YPF"
+   ],
+   "link": "https://www.ypf.com",
+   "desc": "3% adicional eligiendo la modalidad de autodespacho en YPF. Acumulable con el descuento nocturno.",
+   "details": "Fuente: canal26. Sin tope. Acumulable con 6% nocturno = 9% total."
+  },
+  {
+   "store": "YPF ACA",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "5% para socios ACA en YPF (todos los días)",
+   "value": "5%",
+   "tope": "$14.500/mes",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Combustible",
+    "YPF",
+    "ACA"
+   ],
+   "link": "https://www.ypf.com",
+   "desc": "5% de descuento todos los días en YPF para socios del Automóvil Club Argentino.",
+   "details": "Fuente: canal26. En estaciones YPF adheridas con tarjeta socio ACA. Tope $14.500 mensual."
+  },
+  {
+   "store": "Brubank Plan Ultra",
+   "type": "descuento",
+   "catTienda": "combustible",
+   "title": "30% en Axion todos los días (Plan Ultra)",
+   "value": "30%",
+   "tope": "$6.000/op · $30.000/mes",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Combustible",
+    "Brubank",
+    "Axion"
+   ],
+   "link": "https://www.brubank.com.ar",
+   "desc": "30% en Axion todos los días para clientes Brubank Plan Ultra. El mayor descuento permanente en combustible.",
+   "details": "Fuente: canal26/mdzol. Solo Plan Ultra. Tope $6.000 por operación y $30.000 mensual."
+  },
+  {
+   "store": "Frávega",
+   "type": "cuotas",
+   "catTienda": "tecnologia",
+   "title": "12 CSI con BBVA vía MODO",
+   "value": "12 CSI",
+   "tope": "Productos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Tecnología",
+    "BBVA",
+    "MODO"
+   ],
+   "link": "https://www.fravega.com",
+   "desc": "12 cuotas sin interés pagando con tarjeta de crédito BBVA a través de MODO.",
+   "details": "Válido en fravega.com. Con BBVA crédito vía MODO."
+  },
+  {
+   "store": "Frávega",
+   "type": "cuotas",
+   "catTienda": "tecnologia",
+   "title": "6 CSI con Banco Provincia",
+   "value": "6 CSI",
+   "tope": "Todo el sitio",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Tecnología",
+    "Provincia"
+   ],
+   "link": "https://www.fravega.com",
+   "desc": "6 cuotas sin interés en todo el sitio pagando con tarjetas de Banco Provincia.",
+   "details": "Con tarjetas de crédito del Banco Provincia en fravega.com."
+  },
+  {
+   "store": "Frávega",
+   "type": "descuento",
+   "catTienda": "tecnologia",
+   "title": "Hasta 40% en muebles, fitness y deco",
+   "value": "Hasta 40%",
+   "tope": "Productos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Muebles",
+    "Deco",
+    "Fitness"
+   ],
+   "link": "https://www.fravega.com",
+   "desc": "Hasta 40% en muebles, artículos de fitness y decoración en Frávega.",
+   "details": "En productos seleccionados. Vigente durante marzo 2026."
+  },
+  {
+   "store": "Garbarino",
+   "type": "descuento",
+   "catTienda": "tecnologia",
+   "title": "Hasta 50% en electro y tecnología",
+   "value": "Hasta 50%",
+   "tope": "Stock limitado",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Tecnología",
+    "Electro"
+   ],
+   "link": "https://www.garbarino.com",
+   "desc": "Hasta 50% en electrónica, tecnología y electrodomésticos seleccionados en Garbarino.",
+   "details": "En productos seleccionados de garbarino.com. Stock limitado."
+  },
+  {
+   "store": "Megatone",
+   "type": "descuento",
+   "catTienda": "tecnologia",
+   "title": "Hasta 55% en notebooks",
+   "value": "Hasta 55%",
+   "tope": "Stock limitado",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Tecnología",
+    "Notebooks"
+   ],
+   "link": "https://www.megatone.net",
+   "desc": "Hasta 55% en notebooks y computadoras seleccionadas en Megatone.",
+   "details": "En notebooks seleccionadas. Stock limitado."
+  },
+  {
+   "store": "Musimundo",
+   "type": "cuotas",
+   "catTienda": "tecnologia",
+   "title": "12 CSI con Galicia, BBVA y Macro",
+   "value": "12 CSI",
+   "tope": "Exclusivo web",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Tecnología",
+    "Música",
+    "Gaming"
+   ],
+   "link": "https://www.musimundo.com",
+   "desc": "Hasta 12 CSI con tarjetas Galicia, BBVA y Macro en productos online de Musimundo.",
+   "details": "Solo en musimundo.com. Exclusivo compras online."
+  },
+  {
+   "store": "Sodimac",
+   "type": "descuento",
+   "catTienda": "hogar",
+   "title": "40% en muebles de interior",
+   "value": "40%",
+   "tope": "Productos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Muebles",
+    "Hogar"
+   ],
+   "link": "https://www.sodimac.com.ar",
+   "desc": "40% en muebles de interior seleccionados en Sodimac.",
+   "details": "En sodimac.com.ar. Productos seleccionados."
+  },
+  {
+   "store": "Sodimac",
+   "type": "cuotas",
+   "catTienda": "hogar",
+   "title": "6 CSI en toda la tienda",
+   "value": "6 CSI",
+   "tope": "Toda la tienda",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Hogar",
+    "Construcción"
+   ],
+   "link": "https://www.sodimac.com.ar",
+   "desc": "6 cuotas sin interés en todos los productos de Sodimac.",
+   "details": "Aplica en todos los productos de sodimac.com.ar."
+  },
+  {
+   "store": "Easy",
+   "type": "descuento",
+   "catTienda": "hogar",
+   "title": "25% en herramientas eléctricas",
+   "value": "25%",
+   "tope": "Productos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Herramientas",
+    "Construcción"
+   ],
+   "link": "https://www.easy.com.ar",
+   "desc": "25% en herramientas eléctricas seleccionadas en Easy.",
+   "details": "En easy.com.ar. Productos seleccionados."
+  },
+  {
+   "store": "Adidas",
+   "type": "descuento",
+   "catTienda": "indumentaria",
+   "title": "30% en outlet online",
+   "value": "30%",
+   "tope": "Outlet",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Deportes",
+    "Calzado"
+   ],
+   "link": "https://www.adidas.com.ar",
+   "desc": "30% en productos del outlet oficial de Adidas Argentina.",
+   "details": "En sección outlet de adidas.com.ar. Mientras dure el stock."
+  },
+  {
+   "store": "Nike",
+   "type": "descuento",
+   "catTienda": "indumentaria",
+   "title": "Hasta 40% en sale oficial",
+   "value": "Hasta 40%",
+   "tope": "Outlet",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Deportes",
+    "Calzado"
+   ],
+   "link": "https://www.nike.com/ar",
+   "desc": "Hasta 40% en la sección sale del sitio oficial de Nike Argentina.",
+   "details": "En nike.com/ar. Stock limitado."
+  },
+  {
+   "store": "Zara",
+   "type": "descuento",
+   "catTienda": "indumentaria",
+   "title": "Hasta 50% en rebajas de temporada",
+   "value": "Hasta 50%",
+   "tope": "Productos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Moda",
+    "Indumentaria"
+   ],
+   "link": "https://www.zara.com/ar",
+   "desc": "Hasta 50% en la sección de rebajas de Zara Argentina.",
+   "details": "En zara.com/ar. Productos seleccionados."
+  },
+  {
+   "store": "H&M",
+   "type": "descuento",
+   "catTienda": "indumentaria",
+   "title": "20% en primera compra online",
+   "value": "20%",
+   "tope": "Primera compra",
+   "when": "Solo primera vez",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Moda",
+    "Indumentaria"
+   ],
+   "link": "https://www2.hm.com/ar",
+   "desc": "20% en tu primera compra online en H&M Argentina.",
+   "details": "Solo nuevos clientes en hm.com/ar."
+  },
+  {
+   "store": "Reebok",
+   "type": "descuento",
+   "catTienda": "indumentaria",
+   "title": "25% en outlet Reebok online",
+   "value": "25%",
+   "tope": "Outlet",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Deportes",
+    "Indumentaria"
+   ],
+   "link": "https://www.reebok.com.ar",
+   "desc": "25% en productos del outlet oficial de Reebok Argentina.",
+   "details": "En reebok.com.ar. Mientras dure el stock."
+  },
+  {
+   "store": "Rappi",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "30% en restaurantes seleccionados",
+   "value": "30%",
+   "tope": "Restaurantes adheridos",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Delivery",
+    "Gastronomía"
+   ],
+   "link": "https://www.rappi.com.ar",
+   "desc": "Hasta 30% en restaurantes seleccionados dentro de la app Rappi.",
+   "details": "Los descuentos varían por restaurante."
+  },
+  {
+   "store": "Rappi",
+   "type": "bonificacion",
+   "catTienda": "gastronomia",
+   "title": "RappiPrime gratis 30 días (nuevos)",
+   "value": "30 días FREE",
+   "tope": "Solo nuevos",
+   "when": "Solo nuevos",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Delivery",
+    "Suscripción"
+   ],
+   "link": "https://www.rappi.com.ar",
+   "desc": "30 días gratis de RappiPrime: envíos gratis ilimitados y descuentos exclusivos.",
+   "details": "Solo para nuevos usuarios. Cancelá antes de los 30 días para no pagar."
+  },
+  {
+   "store": "PedidosYa",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "Hasta 50% — Descuentos Hoy",
+   "value": "Hasta 50%",
+   "tope": "Restaurantes del día",
+   "when": "Todos los días",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Delivery",
+    "Gastronomía"
+   ],
+   "link": "https://www.pedidosya.com.ar",
+   "desc": "Hasta 50% diario en restaurantes seleccionados en la sección Descuentos Hoy de PedidosYa.",
+   "details": "Los restaurantes cambian cada día en la app PedidosYa."
+  },
+  {
+   "store": "McDonald's",
+   "type": "descuento",
+   "catTienda": "gastronomia",
+   "title": "2x1 en McCombo todos los martes",
+   "value": "2×1",
+   "tope": "Combos seleccionados",
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "tags": [
+    "FastFood",
+    "App"
+   ],
+   "link": "https://www.mcdonalds.com.ar",
+   "desc": "2x1 en combos seleccionados los martes comprando por la app oficial de McDonalds.",
+   "details": "Solo por la app oficial. Locales adheridos."
+  },
+  {
+   "store": "Starbucks",
+   "type": "bonificacion",
+   "catTienda": "gastronomia",
+   "title": "Bebida gratis en tu cumpleaños",
+   "value": "GRATIS",
+   "tope": "Un uso por año",
+   "when": "Cumpleaños",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Café",
+    "Gastronomía"
+   ],
+   "link": "https://www.starbucks.com.ar",
+   "desc": "Una bebida gratis el día de tu cumpleaños siendo miembro de Starbucks Rewards.",
+   "details": "Requiere ser miembro del programa. Registrate en la app de Starbucks."
+  },
+  {
+   "store": "Cabify",
+   "type": "descuento",
+   "catTienda": "transporte",
+   "title": "25% todos los días (Banco Hipotecario)",
+   "value": "25%",
+   "tope": "Todos los días",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Transporte",
+    "Cabify"
+   ],
+   "link": "https://www.cabify.com/ar",
+   "desc": "25% en viajes Cabify todos los días para socios del Banco Hipotecario.",
+   "details": "Fuente: picodi.com.ar. Para clientes Banco Hipotecario."
+  },
+  {
+   "store": "Despegar",
+   "type": "descuento",
+   "catTienda": "viajes",
+   "title": "10% en hoteles con cupón DESPEGAR10",
+   "value": "10%",
+   "tope": "Hoteles seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Viajes",
+    "Hoteles"
+   ],
+   "link": "https://www.despegar.com.ar",
+   "desc": "10% en hoteles seleccionados usando el cupón DESPEGAR10.",
+   "details": "Ingresá el código DESPEGAR10 al pagar en despegar.com.ar."
+  },
+  {
+   "store": "Despegar",
+   "type": "descuento",
+   "catTienda": "viajes",
+   "title": "Hasta 30% en vuelos seleccionados",
+   "value": "Hasta 30%",
+   "tope": "Vuelos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Viajes",
+    "Vuelos"
+   ],
+   "link": "https://www.despegar.com.ar",
+   "desc": "Hasta 30% en vuelos nacionales e internacionales seleccionados.",
+   "details": "En despegar.com.ar. Sujeto a disponibilidad."
+  },
+  {
+   "store": "Airbnb",
+   "type": "descuento",
+   "catTienda": "viajes",
+   "title": "$5.000 OFF en primera reserva",
+   "value": "$5.000 OFF",
+   "tope": "Primera reserva",
+   "when": "Solo primera vez",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Viajes",
+    "Alojamiento"
+   ],
+   "link": "https://www.airbnb.com.ar",
+   "desc": "$5.000 de descuento en tu primera reserva en Airbnb con link de referido.",
+   "details": "Solo para nuevos usuarios con link de referido."
+  },
+  {
+   "store": "Farmacity",
+   "type": "descuento",
+   "catTienda": "salud",
+   "title": "3x2 en perfumería y cosmética",
+   "value": "3×2",
+   "tope": "Productos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Farmacias",
+    "Cosmética"
+   ],
+   "link": "https://www.farmacity.com",
+   "desc": "Llevá 3 y pagá 2 en perfumería y cosmética seleccionados en Farmacity.",
+   "details": "En sucursales Farmacity."
+  },
+  {
+   "store": "Farmacity",
+   "type": "descuento",
+   "catTienda": "salud",
+   "title": "20% en medicamentos genéricos",
+   "value": "20%",
+   "tope": "Medicamentos seleccionados",
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Farmacias",
+    "Salud"
+   ],
+   "link": "https://www.farmacity.com",
+   "desc": "20% en medicamentos genéricos seleccionados en Farmacity.",
+   "details": "En sucursales Farmacity."
+  },
+  {
+   "store": "Netflix",
+   "type": "bonificacion",
+   "catTienda": "entretenimiento",
+   "title": "1 mes gratis en plan estándar",
+   "value": "1 MES FREE",
+   "tope": "Solo nuevos",
+   "when": "Solo nuevos",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Streaming"
+   ],
+   "link": "https://www.netflix.com/ar",
+   "desc": "1 mes gratis del plan estándar de Netflix para nuevos suscriptores.",
+   "details": "Solo para nuevos. Cancelá antes del primer cobro."
+  },
+  {
+   "store": "Spotify",
+   "type": "bonificacion",
+   "catTienda": "entretenimiento",
+   "title": "3 meses Premium gratis (nuevos)",
+   "value": "3 MESES FREE",
+   "tope": "Solo nuevos",
+   "when": "Solo nuevos",
+   "days": [
+    "todos"
+   ],
+   "tags": [
+    "Música",
+    "Streaming"
+   ],
+   "link": "https://www.spotify.com/ar",
+   "desc": "3 meses de Spotify Premium gratis para nuevos suscriptores.",
+   "details": "Solo para usuarios sin Premium previo. Cancelá antes para no pagar."
+  }
+ ]
+}
