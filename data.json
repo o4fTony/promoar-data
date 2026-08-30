@@ -1,12 +1,13 @@
 {
  "updated": "Septiembre 2026",
- "version": "2026-08-29T21:20:35.359Z",
+ "version": "2026-08-30T01:01:47.402Z",
  "promos": [
   {
    "bank": "Banco Nación",
+   "cat": "b",
    "type": "cashback",
-   "title": "30% en supermercados los miércoles (MODO BNA+)",
-   "desc": "30% en Coto, Carrefour, ChangoMás, Día, Jumbo, Vea, Disco, La Anónima, Makro y mayoristas pagando con QR MODO desde BNA+. Crédito Visa/Mastercard BNA.",
+   "title": "30% en supermercados y mayoristas los miércoles",
+   "desc": "30% de devolución los miércoles en Carrefour, Maxiconsumo, ChangoMás, Cabrales, RES y mayoristas adheridos de todo el país.",
    "value": "30%",
    "tope": "Tope: $12.000/semana",
    "tags": [
@@ -18,92 +19,14 @@
    "days": [
     "miercoles"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Vigente hasta 30/09. Crédito Visa/MC BNA vía MODO BNA+."
+   "details": "Visa/Mastercard crédito del BNA vía MODO o app BNA+. Vigente hasta 30/09."
   },
   {
    "bank": "Banco Nación",
-   "type": "cashback",
-   "title": "20% en Vea viernes y sábados",
-   "desc": "20% en supermercados Vea los viernes y sábados con crédito Visa vía BNA+ MODO.",
-   "value": "20%",
-   "tope": "Tope: $25.000/mes",
-   "tags": [
-    "Supermercados",
-    "Vea",
-    "MODO"
-   ],
-   "when": "Vie y sáb",
-   "days": [
-    "viernes",
-    "sabado"
-   ],
    "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Visa crédito vía BNA+ MODO."
-  },
-  {
-   "bank": "Banco Nación",
    "type": "cashback",
-   "title": "20% en Makro los jueves",
-   "desc": "20% en Makro los jueves pagando con crédito Visa vía BNA+ MODO.",
-   "value": "20%",
-   "tope": "Tope: $20.000/mes",
-   "tags": [
-    "Supermercados",
-    "Makro",
-    "MODO"
-   ],
-   "when": "Jueves",
-   "days": [
-    "jueves"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Visa crédito vía BNA+ MODO."
-  },
-  {
-   "bank": "Banco Nación",
-   "type": "cashback",
-   "title": "20% en ChangoMás los lunes",
-   "desc": "20% en ChangoMás los lunes con crédito Visa vía BNA+ MODO. Compra mínima $75.000.",
-   "value": "20%",
-   "tope": "Tope: $25.000/mes",
-   "tags": [
-    "Supermercados",
-    "ChangoMás",
-    "MODO"
-   ],
-   "when": "Lunes",
-   "days": [
-    "lunes"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Mínimo $75.000. Visa crédito BNA+ MODO."
-  },
-  {
-   "bank": "Banco Nación",
-   "type": "cashback",
-   "title": "20% en Jumbo martes y jueves",
-   "desc": "20% en Jumbo los martes y jueves con crédito Visa vía BNA+ MODO. Compra mínima $100.000.",
-   "value": "20%",
-   "tope": "Tope: $25.000/mes",
-   "tags": [
-    "Supermercados",
-    "Jumbo",
-    "MODO"
-   ],
-   "when": "Mar y jue",
-   "days": [
-    "martes",
-    "jueves"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Mínimo $100.000. Visa crédito BNA+ MODO."
-  },
-  {
-   "bank": "Banco Nación",
-   "type": "cashback",
-   "title": "20% en combustible los viernes (MODO)",
-   "desc": "20% en YPF, Axion y Shell los viernes pagando con crédito Visa vía BNA+ MODO.",
+   "title": "20% en combustible YPF, Shell y Axion",
+   "desc": "20% de reintegro cargando nafta o gasoil en estaciones YPF, Shell y Axion adheridas.",
    "value": "20%",
    "tope": "Tope: $10.000/mes",
    "tags": [
@@ -111,104 +34,63 @@
     "MODO",
     "BNA+"
    ],
-   "when": "Viernes",
+   "when": "Todo el mes",
    "days": [
-    "viernes"
+    "todos"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. YPF/Axion/Shell. Vigencia renovable mensual."
+   "details": "Con MODO o app BNA+ y tarjeta de crédito del Banco Nación."
   },
   {
    "bank": "Banco Nación",
+   "cat": "b",
    "type": "cuotas",
-   "title": "Farmacias: hasta 3 cuotas sin interés los lunes",
-   "desc": "Hasta 3 cuotas sin interés en farmacias adheridas los lunes con crédito Visa vía BNA+ MODO. Jubilados: 10% extra.",
-   "value": "3 CSI",
-   "tope": "Jubilados: +10%",
+   "title": "Hasta 20 cuotas sin interés en electro y tecnología",
+   "desc": "Hasta 20 cuotas sin interés en Frávega, On City, LG, Coppel, Tienda Newsan, Megatone, Naldo y Motorola.",
+   "value": "20 CSI",
+   "tope": "Sin tope",
    "tags": [
-    "Farmacias",
-    "Cuotas",
-    "Jubilados"
-   ],
-   "when": "Lunes",
-   "days": [
-    "lunes"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Vigente hasta fin de mes. Jubilados suman 10% de descuento."
-  },
-  {
-   "bank": "Banco Nación",
-   "type": "descuento",
-   "title": "10% en ópticas los jueves + 3 cuotas",
-   "desc": "Hasta 10% y 3 cuotas sin interés en ópticas adheridas (Neovisión, Óptica Vision, La Pirámide, Trombetta) los jueves con crédito Visa BNA+ MODO.",
-   "value": "10% + 3 CSI",
-   "tope": "Ópticas adheridas",
-   "tags": [
-    "Ópticas",
+    "Tecnología",
+    "Hogar",
     "Cuotas"
    ],
-   "when": "Jueves",
+   "when": "Todo el mes",
    "days": [
-    "jueves"
+    "todos"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con tarjetas de crédito Visa o Mastercard del Banco Nación en comercios adheridos."
   },
   {
    "bank": "Banco Nación",
+   "cat": "b",
    "type": "cashback",
-   "title": "25% en gastronomía sábados y domingos",
-   "desc": "25% en restaurantes y bares adheridos los fines de semana con crédito Visa vía BNA+ MODO.",
-   "value": "25%",
-   "tope": "Tope: $8.000/semana",
+   "title": "Semana Nación: hasta 30% + hasta 48 cuotas",
+   "desc": "Reintegros de hasta 30% y financiación en hasta 48 cuotas en supermercados, combustible, tecnología y más durante la Semana Nación.",
+   "value": "30%",
+   "tope": "Tope: según rubro",
    "tags": [
-    "Gastronomía",
-    "MODO"
+    "MODO",
+    "BNA+",
+    "Semana Nación"
    ],
-   "when": "Sáb y dom",
+   "when": "Semana Nación",
    "days": [
-    "sabado",
-    "domingo",
-    "finde"
+    "todos"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Nación",
-   "type": "descuento",
-   "title": "25% en Grimoldi y Bowen (vie a dom)",
-   "desc": "25% de descuento sin tope y hasta 12 cuotas sin interés en Grimoldi y Bowen de viernes a domingo.",
-   "value": "25%",
-   "tope": "Sin tope · 12 CSI",
-   "tags": [
-    "Indumentaria",
-    "Calzado",
-    "Cuotas"
-   ],
-   "when": "Vie a dom",
-   "days": [
-    "viernes",
-    "sabado",
-    "domingo",
-    "finde"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Vigente hasta 30/09."
+   "details": "Con app BNA+ y MODO. Fechas y comercios se anuncian en la app."
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
-   "title": "20% en comercios de cercanía (lun a vie)",
-   "desc": "20% de reintegro en comercios de barrio adheridos de lunes a viernes con Cuenta DNI.",
+   "cat": "f",
+   "type": "descuento",
+   "title": "20% en comercios de cercanía y barrio",
+   "desc": "20% de ahorro de lunes a viernes en almacenes, verdulerías, carnicerías y comercios de proximidad adheridos.",
    "value": "20%",
    "tope": "Tope: $6.000/semana",
    "tags": [
-    "Comercios de barrio",
-    "Cuenta DNI"
+    "Barrio",
+    "Comercios de cercanía"
    ],
-   "when": "Lun a vie",
+   "when": "Lunes a viernes",
    "days": [
     "lunes",
     "martes",
@@ -216,769 +98,842 @@
     "jueves",
     "viernes"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Compra sugerida $30.000 para aprovechar el tope."
+   "details": "Compra sugerida $30.000 para llegar al tope. Vigente hasta 30/09."
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
-   "title": "15% en supermercados martes y miércoles",
-   "desc": "15% de reintegro en supermercados adheridos los martes y miércoles con Cuenta DNI.",
+   "cat": "f",
+   "type": "descuento",
+   "title": "15% en supermercados los martes y miércoles",
+   "desc": "15% de ahorro los martes y miércoles en supermercados adheridos.",
    "value": "15%",
    "tope": "Tope: $6.000/semana",
    "tags": [
-    "Supermercados",
-    "Cuenta DNI"
+    "Supermercados"
    ],
-   "when": "Mar y mié",
+   "when": "Martes y miércoles",
    "days": [
     "martes",
     "miercoles"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Compra sugerida $40.000."
+   "details": "Compra sugerida $40.000 para llegar al tope."
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
+   "cat": "f",
+   "type": "descuento",
    "title": "40% en ferias y mercados bonaerenses",
-   "desc": "40% de reintegro todos los días en ferias y Mercados Bonaerenses adheridos con Cuenta DNI.",
+   "desc": "40% de descuento todos los días en ferias y mercados bonaerenses adheridos.",
    "value": "40%",
    "tope": "Tope: $6.000/semana",
    "tags": [
     "Ferias",
-    "Mercados",
-    "Cuenta DNI"
+    "Barrio"
    ],
    "when": "Todos los días",
    "days": [
     "todos"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Compra sugerida $15.000 para llegar al tope."
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
-   "title": "40% en universidades y librerías educativas",
-   "desc": "40% de reintegro todos los días en universidades y comercios educativos adheridos pagando desde la app.",
+   "cat": "f",
+   "type": "descuento",
+   "title": "40% en universidades, eventos y clubes",
+   "desc": "40% de descuento todos los días en universidades, entradas a eventos, clubes y comercios adheridos.",
    "value": "40%",
    "tope": "Tope: $6.000/semana",
    "tags": [
-    "Educación",
-    "Universidades",
-    "Cuenta DNI"
+    "Salidas",
+    "Educación"
    ],
    "when": "Todos los días",
    "days": [
     "todos"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": ""
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
+   "cat": "f",
+   "type": "descuento",
    "title": "25% en gastronomía los fines de semana",
-   "desc": "25% de reintegro en bares y restaurantes adheridos los sábados y domingos con Cuenta DNI.",
+   "desc": "25% de ahorro los sábados y domingos en restaurantes, bares y cafeterías adheridos.",
+   "value": "25%",
+   "tope": "Tope: $8.000/semana",
+   "tags": [
+    "Gastronomía"
+   ],
+   "when": "Sábados y domingos",
+   "days": [
+    "sabado",
+    "domingo"
+   ],
+   "details": "Compra sugerida $32.000 para llegar al tope."
+  },
+  {
+   "bank": "Cuenta DNI",
+   "cat": "f",
+   "type": "descuento",
+   "title": "25% en YPF Full los fines de semana",
+   "desc": "25% de ahorro los sábados y domingos en tiendas YPF Full. No incluye la carga de combustible.",
    "value": "25%",
    "tope": "Tope: $8.000/semana",
    "tags": [
     "Gastronomía",
-    "Cuenta DNI"
+    "Kiosco"
    ],
-   "when": "Sáb y dom",
+   "when": "Sábados y domingos",
    "days": [
     "sabado",
-    "domingo",
-    "finde"
+    "domingo"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Compra sugerida $32.000."
+   "details": "No aplica a combustible."
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
-   "title": "25% en YPF Full los fines de semana",
-   "desc": "25% de reintegro en tiendas YPF Full (no incluye combustible) los sábados y domingos con Cuenta DNI.",
-   "value": "25%",
-   "tope": "Tope: $8.000/semana",
-   "tags": [
-    "YPF Full",
-    "Tienda",
-    "Cuenta DNI"
-   ],
-   "when": "Sáb y dom",
-   "days": [
-    "sabado",
-    "domingo",
-    "finde"
-   ],
    "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. No aplica a la carga de combustible."
-  },
-  {
-   "bank": "Cuenta DNI",
-   "type": "cashback",
-   "title": "40% en garrafas",
-   "desc": "40% de reintegro todos los días en la compra de garrafas a comercios adheridos con Cuenta DNI.",
+   "type": "descuento",
+   "title": "40% en garrafas todos los días",
+   "desc": "40% de descuento todos los días en la compra de garrafas de gas en puntos de venta adheridos.",
    "value": "40%",
    "tope": "Tope: $18.000/mes",
    "tags": [
-    "Garrafas",
-    "Cuenta DNI"
+    "Hogar",
+    "Garrafas"
    ],
-   "when": "Todos los días",
+   "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Compra sugerida $45.000."
+   "details": "Compra sugerida $45.000 para llegar al tope."
   },
   {
    "bank": "Cuenta DNI",
-   "type": "cashback",
-   "title": "30% en marcas destacadas (Havanna, Lucciano's)",
-   "desc": "30% de reintegro todos los días en marcas destacadas adheridas (Havanna, Lucciano's y otras) con Cuenta DNI.",
+   "cat": "f",
+   "type": "descuento",
+   "title": "30% en marcas destacadas todos los días",
+   "desc": "30% de descuento todos los días en las marcas destacadas del mes (indumentaria, gastronomía, tecnología y más).",
    "value": "30%",
    "tope": "Tope: $15.000/mes",
    "tags": [
     "Marcas",
-    "Cuenta DNI"
-   ],
-   "when": "Todos los días",
-   "days": [
-    "todos"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Cuenta DNI",
-   "type": "cuotas",
-   "title": "3 cuotas sin interés con 'Tarjeteá con Cuenta DNI'",
-   "desc": "3 cuotas sin interés en comercios adheridos (no incluye alimentos ni grandes cadenas de super) con Cuenta DNI.",
-   "value": "3 CSI",
-   "tope": "Hasta 31/10",
-   "tags": [
-    "Cuotas",
-    "Cuenta DNI"
+    "Indumentaria"
    ],
    "when": "Todo el mes",
    "days": [
     "todos"
    ],
+   "details": "Compra sugerida $50.000 para llegar al tope."
+  },
+  {
+   "bank": "Cuenta DNI",
    "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Vigente hasta 31/10/2026. Excluye alimentos y grandes supermercados."
+   "type": "cuotas",
+   "title": "3 cuotas sin interés con Tarjeteá",
+   "desc": "3 cuotas sin interés en comercios adheridos pagando con la función Tarjeteá de Cuenta DNI.",
+   "value": "3 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Cuotas"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Excluye alimentos y grandes supermercados. Vigente hasta 31/10."
+  },
+  {
+   "bank": "Cuenta DNI",
+   "cat": "f",
+   "type": "descuento",
+   "title": "10% en librerías de texto los lunes y martes",
+   "desc": "10% de descuento los lunes y martes en librerías escolares y de texto adheridas, sin tope de reintegro.",
+   "value": "10%",
+   "tope": "Sin tope",
+   "tags": [
+    "Librerías",
+    "Educación"
+   ],
+   "when": "Lunes y martes",
+   "days": [
+    "lunes",
+    "martes"
+   ],
+   "details": ""
+  },
+  {
+   "bank": "Cuenta DNI",
+   "cat": "f",
+   "type": "descuento",
+   "title": "10% en farmacias y perfumerías los miércoles y jueves",
+   "desc": "10% de descuento los miércoles y jueves en farmacias y perfumerías adheridas, sin tope de reintegro.",
+   "value": "10%",
+   "tope": "Sin tope",
+   "tags": [
+    "Farmacia",
+    "Perfumería"
+   ],
+   "when": "Miércoles y jueves",
+   "days": [
+    "miercoles",
+    "jueves"
+   ],
+   "details": ""
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "cashback",
+   "title": "100% en subte, colectivos y buses eléctricos de CABA",
+   "desc": "100% de reintegro todos los días viajando en subte, colectivos con terminal NFC y buses eléctricos de la Ciudad.",
+   "value": "100%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con tarjeta Visa Buepp vía NFC desde el celular."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "descuento",
+   "title": "30% en ferias itinerantes (FIABS)",
+   "desc": "30% de descuento todos los días comprando alimentos en las Ferias Itinerantes de Abastecimiento Barrial de la Ciudad.",
+   "value": "30%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Ferias",
+    "Barrio",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con QR Buepp (débito, crédito o dinero en cuenta)."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "cashback",
+   "title": "20% en impuestos de CABA (ABL, Patentes, IIBB)",
+   "desc": "20% de reintegro todos los días pagando ABL, Patentes o Ingresos Brutos Simplificado de la Ciudad.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes por impuesto",
+   "tags": [
+    "Impuestos",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con QR Buepp."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "cashback",
+   "title": "20% en expensas",
+   "desc": "20% de reintegro todos los días pagando expensas de consorcios adheridos.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Servicios",
+    "Hogar",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con QR Buepp."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "descuento",
+   "title": "30% en dietéticas, queserías, fiambrerías y carnicerías",
+   "desc": "30% de descuento todos los días en tiendas saludables, queserías, fiambrerías y carnicerías adheridas.",
+   "value": "30%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Barrio",
+    "Alimentos",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con QR Buepp."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "descuento",
+   "title": "20% en McDon's todos los días",
+   "desc": "20% de descuento todos los días en locales McDonald's adheridos.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Gastronomía",
+    "Buepp"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con tarjeta Visa Buepp vía NFC."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "descuento",
+   "title": "50% en cines los sábados",
+   "desc": "50% de descuento los sábados en entradas de cine en complejos adheridos.",
+   "value": "50%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Salidas",
+    "Cine",
+    "Buepp"
+   ],
+   "when": "Sábados",
+   "days": [
+    "sabado"
+   ],
+   "details": "Pagando con QR Buepp."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "descuento",
+   "title": "20% en librerías y jugueterías los viernes",
+   "desc": "20% de descuento los viernes en librerías y jugueterías adheridas.",
+   "value": "20%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Librerías",
+    "Jugueterías",
+    "Buepp"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "details": "Pagando con QR Buepp."
+  },
+  {
+   "bank": "Banco Ciudad",
+   "cat": "b",
+   "type": "descuento",
+   "title": "20% en Farmacity los miércoles",
+   "desc": "20% de descuento los miércoles en sucursales Farmacity.",
+   "value": "20%",
+   "tope": "Tope: $5.000/mes",
+   "tags": [
+    "Farmacia",
+    "Buepp"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "details": "Pagando con tarjeta Visa Buepp vía NFC."
+  },
+  {
+   "bank": "Banco Macro",
+   "cat": "b",
+   "type": "cashback",
+   "title": "30% los sábados con MODO",
+   "desc": "30% de ahorro los sábados en comercios adheridos con tarjetas de crédito Visa Signature, American Express Icon o Mastercard Black.",
+   "value": "30%",
+   "tope": "Tope: $20.000/mes por rubro",
+   "tags": [
+    "MODO",
+    "Sábados",
+    "Selecta"
+   ],
+   "when": "Sábados",
+   "days": [
+    "sabado"
+   ],
+   "details": "Pagando con MODO desde la app Macro o la app MODO."
+  },
+  {
+   "bank": "Banco Macro",
+   "cat": "b",
+   "type": "cashback",
+   "title": "20% en transporte (colectivo, subte y peajes)",
+   "desc": "20% de reintegro pagando el transporte público y peajes con QR desde la app Macro o MODO.",
+   "value": "20%",
+   "tope": "Tope: $10.000/mes",
+   "tags": [
+    "Transporte",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con QR Transporte desde la app del banco o MODO. Vigente hasta 31/12."
+  },
+  {
+   "bank": "Banco Macro",
+   "cat": "b",
+   "type": "cashback",
+   "title": "30% en aeropuertos (Duty Free y ShopGallery)",
+   "desc": "30% de ahorro en Duty Free y ShopGallery de aeropuertos con Visa Signature Macro Selecta.",
+   "value": "30%",
+   "tope": "Tope: $30.000/mes",
+   "tags": [
+    "Viajes",
+    "Selecta",
+    "NFC"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando desde el celular sin contacto (Google Pay, Apple Pay, MODO NFC)."
+  },
+  {
+   "bank": "Banco Macro",
+   "cat": "b",
+   "type": "descuento",
+   "title": "45% en Assist Card + 12 cuotas sin interés",
+   "desc": "45% de ahorro en asistencia al viajero Assist Card, sin tope, más hasta 12 cuotas sin interés.",
+   "value": "45%",
+   "tope": "Sin tope",
+   "tags": [
+    "Viajes",
+    "Selecta",
+    "Cuotas"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Con tarjetas de crédito Macro y Macro Selecta. Vigente hasta 30/09."
   },
   {
    "bank": "Banco Galicia",
+   "cat": "b",
+   "type": "cashback",
+   "title": "50% en colectivos con Mastercard crédito",
+   "desc": "50% de reintegro pagando el colectivo con tecnología sin contacto (NFC) desde el celular o smartwatch con tarjetas Mastercard de crédito Galicia.",
+   "value": "50%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Transporte",
+    "NFC",
+    "Mastercard"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pago sin contacto con Mastercard crédito Galicia. Vigente del 17/08 al 30/09."
+  },
+  {
+   "bank": "Banco Galicia",
+   "cat": "b",
+   "type": "cashback",
+   "title": "25% todos los días con Galicia Éminent",
+   "desc": "25% de ahorro todos los días en comercios adheridos para clientes Galicia Éminent.",
+   "value": "25%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Éminent",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Con MODO, tarjeta física o contactless Visa crédito y débito Galicia."
+  },
+  {
+   "bank": "Banco Galicia",
+   "cat": "b",
    "type": "cashback",
    "title": "20% en ChangoMás",
-   "desc": "20% de ahorro en ChangoMás y MasOnline con tarjetas Galicia. +$5.000 de tope extra si cobrás el sueldo en Galicia.",
+   "desc": "20% de ahorro en supermercados ChangoMás y MasOnline con tarjetas Galicia.",
    "value": "20%",
-   "tope": "Tope: $20.000/mes (+$5.000 cuenta sueldo)",
+   "tope": "Tope: $20.000/mes",
    "tags": [
-    "Supermercados",
-    "ChangoMás"
+    "Supermercados"
    ],
-   "when": "Ver app",
+   "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Vigente hasta 26/09."
+   "details": "Con tarjetas de crédito Galicia vía MODO."
   },
   {
    "bank": "Banco Galicia",
+   "cat": "b",
    "type": "cashback",
-   "title": "20% en Jumbo",
-   "desc": "20% de ahorro en Jumbo con tarjetas Galicia, tope de reintegro mensual.",
-   "value": "20%",
-   "tope": "Tope: $25.000/mes",
+   "title": "25% en Coto Digital los jueves (Amex)",
+   "desc": "25% de ahorro los jueves en Coto Digital (30% para clientes Éminent) pagando con American Express Galicia.",
+   "value": "25%",
+   "tope": "Tope: $15.000/mes",
    "tags": [
     "Supermercados",
-    "Jumbo"
-   ],
-   "when": "Ver app",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Galicia",
-   "type": "descuento",
-   "title": "15% en combustible para clientes Éminent",
-   "desc": "10% general y 15% para clientes Éminent que cobran el sueldo en Galicia, al cargar combustible.",
-   "value": "10% / 15%",
-   "tope": "Éminent: 15%",
-   "tags": [
-    "Combustible",
-    "Éminent"
-   ],
-   "when": "Ver app",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Santander",
-   "type": "cashback",
-   "title": "20% en ChangoMás los lunes",
-   "desc": "20% en ChangoMás los lunes con tarjetas Santander. Compra mínima $75.000.",
-   "value": "20%",
-   "tope": "Tope: $25.000/mes",
-   "tags": [
-    "Supermercados",
-    "ChangoMás"
-   ],
-   "when": "Lunes",
-   "days": [
-    "lunes"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Mínimo $75.000."
-  },
-  {
-   "bank": "Santander",
-   "type": "cashback",
-   "title": "30% en Coto los jueves (Apple/Google Pay)",
-   "desc": "30% en Coto los jueves pagando con Apple Pay o Google Pay con tarjeta Santander. Compra mínima $100.000, sin tope.",
-   "value": "30%",
-   "tope": "Sin tope · mín. $100.000",
-   "tags": [
-    "Supermercados",
-    "Coto",
-    "NFC"
+    "Amex"
    ],
    "when": "Jueves",
    "days": [
     "jueves"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Pagando con American Express Galicia."
   },
   {
-   "bank": "Santander",
+   "bank": "Banco Galicia",
+   "cat": "b",
    "type": "cashback",
-   "title": "20% en Diarco los fines de semana (QR)",
-   "desc": "20% en Diarco los sábados y domingos pagando con QR desde la app Santander. Sin tope.",
+   "title": "20% en Arredo los jueves",
+   "desc": "20% de reintegro los jueves en Arredo (25% para clientes Éminent).",
+   "value": "20%",
+   "tope": "Tope: $30.000/mes",
+   "tags": [
+    "Hogar"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "details": "Con tarjeta débito o crédito Galicia vía MODO."
+  },
+  {
+   "bank": "Banco Galicia",
+   "cat": "b",
+   "type": "descuento",
+   "title": "20% en FarmaPlus y FarmaOnline + 6 cuotas",
+   "desc": "Hasta 20% de reintegro más 6 cuotas sin interés en FarmaPlus (jueves) y FarmaOnline (martes).",
+   "value": "20%",
+   "tope": "Tope: $10.000",
+   "tags": [
+    "Farmacia",
+    "Cuotas"
+   ],
+   "when": "Martes y jueves",
+   "days": [
+    "martes",
+    "jueves"
+   ],
+   "details": "Con débito o crédito Visa/Mastercard Galicia."
+  },
+  {
+   "bank": "Banco Galicia",
+   "cat": "b",
+   "type": "cashback",
+   "title": "20% en Uber",
+   "desc": "20% de ahorro en Uber (25% para clientes Éminent), tope $4.000.",
+   "value": "20%",
+   "tope": "Tope: $4.000",
+   "tags": [
+    "Transporte",
+    "Uber"
+   ],
+   "when": "Miércoles y jueves",
+   "days": [
+    "miercoles",
+    "jueves"
+   ],
+   "details": "Con débito o crédito Visa/Mastercard/Amex Galicia."
+  },
+  {
+   "bank": "Banco Santander",
+   "cat": "b",
+   "type": "cashback",
+   "title": "Hasta 100% en transporte (colectivo y subte)",
+   "desc": "Reintegro de hasta 100% pagando colectivo y subte con QR desde la app Santander o MODO.",
+   "value": "100%",
+   "tope": "Tope: $8.000 a $16.000/mes",
+   "tags": [
+    "Transporte",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Pagando con QR vía MODO o app Santander. Requiere saldo mínimo de $1.200."
+  },
+  {
+   "bank": "Banco Santander",
+   "cat": "b",
+   "type": "cashback",
+   "title": "25% en supermercados los miércoles",
+   "desc": "25% de ahorro los miércoles en DÍA, Carrefour y ChangoMás pagando con MODO.",
+   "value": "25%",
+   "tope": "Tope: $20.000/mes",
+   "tags": [
+    "Supermercados",
+    "MODO"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "details": "Pagando con MODO desde la app Santander."
+  },
+  {
+   "bank": "BBVA",
+   "cat": "b",
+   "type": "cashback",
+   "title": "20% en Makro y Nini los jueves",
+   "desc": "20% de reintegro los jueves en mayoristas Makro y Nini pagando con MODO (crédito o débito).",
+   "value": "20%",
+   "tope": "Tope: $20.000/mes por cadena",
+   "tags": [
+    "Supermercados",
+    "Mayorista",
+    "MODO"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "details": "Con MODO vinculado a la cuenta de la tarjeta con la que se paga."
+  },
+  {
+   "bank": "BBVA",
+   "cat": "b",
+   "type": "cashback",
+   "title": "Hasta 25% en supermercados todos los días",
+   "desc": "Hasta 25% de reintegro todos los días en supermercados adheridos.",
+   "value": "25%",
+   "tope": "Tope: $8.000/semana",
+   "tags": [
+    "Supermercados",
+    "MODO",
+    "NFC"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Con la app BBVA, Apple Pay, Google Pay o MODO y Mastercard contactless. Hay que vincular MODO a la cuenta."
+  },
+  {
+   "bank": "ICBC",
+   "cat": "b",
+   "type": "cashback",
+   "title": "20% en Coto una vez por semana",
+   "desc": "20% de reintegro en Coto, una vez por semana, sin tope máximo. La devolución se acredita a 90 días.",
    "value": "20%",
    "tope": "Sin tope",
    "tags": [
     "Supermercados",
-    "Diarco",
-    "QR"
+    "Visa débito"
    ],
-   "when": "Sáb y dom",
+   "when": "1 vez por semana",
    "days": [
-    "sabado",
-    "domingo",
-    "finde"
+    "todos"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con tarjeta de débito Visa ICBC."
   },
   {
-   "bank": "Santander",
+   "bank": "ICBC",
+   "cat": "b",
    "type": "descuento",
-   "title": "25% en Farmacity los martes + 3 cuotas",
-   "desc": "25% de descuento y hasta 3 cuotas sin interés en Farmacity los martes con tarjetas Santander.",
-   "value": "25% + 3 CSI",
-   "tope": "Tope: $15.000",
-   "tags": [
-    "Farmacias",
-    "Farmacity",
-    "Cuotas"
-   ],
-   "when": "Martes",
-   "days": [
-    "martes"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Santander",
-   "type": "2x1",
-   "title": "2x1 en cine Cinépolis",
-   "desc": "2x1 en entradas de Cinépolis pagando con Visa débito o crédito Santander, todos los días.",
-   "value": "2x1",
-   "tope": "Ver condiciones",
-   "tags": [
-    "Cine",
-    "Cinépolis"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Santander",
-   "type": "descuento",
-   "title": "10% en librerías Yenny/Cúspide + 6 cuotas",
-   "desc": "10% de descuento, hasta $20.000 de reintegro y 6 cuotas sin interés en Yenny y Cúspide con tarjetas Santander.",
-   "value": "10% + 6 CSI",
-   "tope": "Tope: $20.000",
-   "tags": [
-    "Librerías",
-    "Cuotas"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "BBVA",
-   "type": "descuento",
-   "title": "25% en supermercados (cuenta sueldo)",
-   "desc": "25% de descuento en un pago con tarjeta de crédito Visa BBVA, exclusivo para clientes con cuenta sueldo.",
-   "value": "25%",
-   "tope": "Ver tope en app",
-   "tags": [
-    "Supermercados",
-    "Cuenta sueldo"
-   ],
-   "when": "Ver app",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Exclusivo cuenta sueldo, 1 pago Visa crédito."
-  },
-  {
-   "bank": "BBVA",
-   "type": "cashback",
-   "title": "10-25% en Carrefour los sábados (MODO)",
-   "desc": "10% base en Carrefour los sábados con MODO y Visa crédito BBVA; 15% adicional si cobrás el sueldo en el banco.",
-   "value": "10% / 25%",
-   "tope": "Tope: $2.000/usuario",
-   "tags": [
-    "Supermercados",
-    "Carrefour",
-    "MODO"
-   ],
-   "when": "Sábado",
-   "days": [
-    "sabado"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Ciudad",
-   "type": "descuento",
-   "title": "25% en supermercados en un pago",
-   "desc": "25% de descuento en un pago con tarjetas de crédito Visa, Mastercard y Cabal Banco Ciudad.",
-   "value": "25%",
-   "tope": "Tope: $10.000",
-   "tags": [
-    "Supermercados"
-   ],
-   "when": "Ver app",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Ciudad",
-   "type": "cashback",
-   "title": "10% en combustible los domingos",
-   "desc": "10% de reintegro al cargar combustible los domingos con tarjetas Banco Ciudad.",
-   "value": "10%",
-   "tope": "Ver tope en app",
-   "tags": [
-    "Combustible"
-   ],
-   "when": "Domingo",
-   "days": [
-    "domingo"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Macro",
-   "type": "cuotas",
-   "title": "12 cuotas sin interés en ChangoMás y Coto",
-   "desc": "Hasta 12 cuotas sin interés en ChangoMás y Coto, y 6 cuotas en Diarco, todos los días con tarjetas Macro.",
-   "value": "12 CSI",
-   "tope": "Diario",
-   "tags": [
-    "Supermercados",
-    "Cuotas"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Macro",
-   "type": "cuotas",
-   "title": "12 cuotas sin interés en tecnología (Frávega, Megatone)",
-   "desc": "12 cuotas sin interés en Frávega y Megatone con tarjetas Amex, Mastercard o Visa Macro, todos los días.",
-   "value": "12 CSI",
-   "tope": "Diario",
-   "tags": [
-    "Tecnología",
-    "Cuotas"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Macro",
-   "type": "cuotas",
-   "title": "6 cuotas sin interés en indumentaria (Dexter, Devré)",
-   "desc": "Hasta 6 cuotas sin interés en Dexter y Devré (3 en Caro Cuore) con tarjetas Macro.",
-   "value": "6 CSI",
-   "tope": "Hasta 30/09",
-   "tags": [
-    "Indumentaria",
-    "Cuotas"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Patagonia",
-   "type": "cashback",
-   "title": "30% en Carrefour los miércoles",
-   "desc": "30% en Carrefour los miércoles con tarjetas de crédito Patagonia o MODO.",
-   "value": "30%",
-   "tope": "Tope: $20.000/mes",
-   "tags": [
-    "Supermercados",
-    "Carrefour"
-   ],
-   "when": "Miércoles",
-   "days": [
-    "miercoles"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Patagonia",
-   "type": "cashback",
-   "title": "30% en ChangoMás los sábados",
-   "desc": "30% en ChangoMás los sábados con tarjetas de crédito Patagonia o MODO.",
-   "value": "30%",
-   "tope": "Tope: $20.000/mes",
-   "tags": [
-    "Supermercados",
-    "ChangoMás"
-   ],
-   "when": "Sábado",
-   "days": [
-    "sabado"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Patagonia",
-   "type": "cashback",
-   "title": "20% en Coto Digital los sábados",
-   "desc": "20% en Coto Digital los sábados con tarjetas Patagonia.",
+   "title": "20% en supermercados DÍA los viernes",
+   "desc": "20% de ahorro los viernes en supermercados DÍA.",
    "value": "20%",
-   "tope": "Tope: $25.000/mes",
+   "tope": "Tope: según campaña",
    "tags": [
     "Supermercados",
-    "Coto"
-   ],
-   "when": "Sábado",
-   "days": [
-    "sabado"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Patagonia",
-   "type": "cashback",
-   "title": "20% en combustible los jueves",
-   "desc": "20% de reintegro al cargar combustible los jueves con tarjeta de crédito o MODO Patagonia.",
-   "value": "20%",
-   "tope": "Tope: $10.000/mes",
-   "tags": [
-    "Combustible",
-    "MODO"
-   ],
-   "when": "Jueves",
-   "days": [
-    "jueves"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Patagonia",
-   "type": "descuento",
-   "title": "25% en cine los viernes",
-   "desc": "25% de descuento en entradas de cine los viernes con tarjetas Patagonia.",
-   "value": "25%",
-   "tope": "Tope: $15.000",
-   "tags": [
-    "Cine"
+    "MODO",
+    "NFC"
    ],
    "when": "Viernes",
    "days": [
     "viernes"
    ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Patagonia",
-   "type": "descuento",
-   "title": "20% en Farmacity los viernes",
-   "desc": "20% en Farmacity los viernes pagando con Mastercard o MODO Patagonia.",
-   "value": "20%",
-   "tope": "Tope: $20.000",
-   "tags": [
-    "Farmacias",
-    "Farmacity"
-   ],
-   "when": "Viernes",
-   "days": [
-    "viernes"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Banco Hipotecario",
-   "type": "cashback",
-   "title": "25% en La Anónima los martes (débito MODO)",
-   "desc": "25% en La Anónima los martes pagando con tarjeta de débito a través de MODO.",
-   "value": "25%",
-   "tope": "Tope: $10.000",
-   "tags": [
-    "Supermercados",
-    "La Anónima",
-    "MODO"
-   ],
-   "when": "Martes",
-   "days": [
-    "martes"
-   ],
-   "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con Visa crédito ICBC en un pago o Visa débito vía NFC (Apple Pay, Google Pay, MODO)."
   },
   {
    "bank": "Banco Supervielle",
-   "type": "cashback",
-   "title": "50% en farmacias para jubilados los martes",
-   "desc": "50% de reintegro en farmacias adheridas los martes pagando con Visa Débito Supervielle. Exclusivo jubilados/pensionados.",
-   "value": "50%",
-   "tope": "Tope: $6.000/mes",
+   "cat": "b",
+   "type": "descuento",
+   "title": "20% en supermercados los martes",
+   "desc": "20% de descuento los martes en Jumbo, Disco, Vea y ChangoMás. 25% sin tope en Coto.",
+   "value": "20%",
+   "tope": "Tope: $25.000 débito / $15.000 QR",
    "tags": [
-    "Farmacias",
-    "Jubilados"
+    "Supermercados",
+    "Jubilados",
+    "Identité"
    ],
    "when": "Martes",
    "days": [
     "martes"
    ],
+   "details": "Con débito Identité Supervielle o QR. Combinando ambos, hasta $40.000."
+  },
+  {
+   "bank": "Banco Supervielle",
    "cat": "b",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Vigente hasta 30/11. Exclusivo haberes previsionales en Supervielle."
+   "type": "descuento",
+   "title": "50% en farmacias los martes",
+   "desc": "50% de descuento los martes en farmacias adheridas, más 3 cuotas sin interés todos los días con crédito.",
+   "value": "50%",
+   "tope": "Tope: $6.000 débito + $6.000 QR",
+   "tags": [
+    "Farmacia",
+    "Jubilados",
+    "Identité"
+   ],
+   "when": "Martes",
+   "days": [
+    "martes"
+   ],
+   "details": "Con débito o QR Identité. Combinando ambos, hasta $12.000."
   },
   {
-   "bank": "Mercado Pago",
+   "bank": "Banco Credicoop",
+   "cat": "b",
+   "type": "descuento",
+   "title": "50% en supermercados con débito Cabal",
+   "desc": "50% de ahorro en supermercados adheridos pagando con tarjeta de débito Cabal Credicoop vía MODO.",
+   "value": "50%",
+   "tope": "Tope: $10.000",
+   "tags": [
+    "Supermercados",
+    "Cabal",
+    "MODO"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Con débito Cabal Credicoop vía MODO. Beneficio renovable cada 30 días."
+  },
+  {
+   "bank": "Banco Comafi",
+   "cat": "b",
    "type": "cashback",
-   "title": "20% en Día los miércoles",
-   "desc": "20% de descuento en Día los miércoles pagando con QR o tarjeta Mercado Pago. Compra mínima $12.000.",
+   "title": "20% en combustible Axion los lunes",
+   "desc": "20% de ahorro los lunes en estaciones Axion Energy para clientes UNICO Black.",
    "value": "20%",
-   "tope": "Mín. $12.000",
+   "tope": "Tope: $10.000/semana",
    "tags": [
-    "Supermercados",
-    "Día",
-    "QR"
-   ],
-   "when": "Miércoles",
-   "days": [
-    "miercoles"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Mercado Pago",
-   "type": "cashback",
-   "title": "15% en Carrefour los jueves",
-   "desc": "15% de descuento en Carrefour los jueves con QR o tarjeta Mercado Pago.",
-   "value": "15%",
-   "tope": "Tope: $8.000",
-   "tags": [
-    "Supermercados",
-    "Carrefour",
-    "QR"
-   ],
-   "when": "Jueves",
-   "days": [
-    "jueves"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Mercado Pago",
-   "type": "cashback",
-   "title": "15% en Coto los fines de semana",
-   "desc": "15% de descuento en Coto los sábados y domingos con Mercado Pago.",
-   "value": "15%",
-   "tope": "Ver tope en app",
-   "tags": [
-    "Supermercados",
-    "Coto"
-   ],
-   "when": "Sáb y dom",
-   "days": [
-    "sabado",
-    "domingo",
-    "finde"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Mercado Pago",
-   "type": "cashback",
-   "title": "20% en ChangoMás los domingos",
-   "desc": "20% de reintegro en ChangoMás los domingos con QR o tarjeta Mercado Pago.",
-   "value": "20%",
-   "tope": "Tope: $8.000",
-   "tags": [
-    "Supermercados",
-    "ChangoMás",
-    "QR"
-   ],
-   "when": "Domingo",
-   "days": [
-    "domingo"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Uala",
-   "type": "cashback",
-   "title": "25% en ChangoMás los jueves (crédito)",
-   "desc": "25% en ChangoMás los jueves pagando con tarjeta de crédito Ualá.",
-   "value": "25%",
-   "tope": "Tope: $10.000",
-   "tags": [
-    "Supermercados",
-    "ChangoMás"
-   ],
-   "when": "Jueves",
-   "days": [
-    "jueves"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Solo tarjeta de crédito Ualá."
-  },
-  {
-   "bank": "Uala",
-   "type": "cashback",
-   "title": "25% en Día los viernes (crédito)",
-   "desc": "25% en Día los viernes pagando con tarjeta de crédito Ualá.",
-   "value": "25%",
-   "tope": "Tope: $10.000",
-   "tags": [
-    "Supermercados",
-    "Día"
-   ],
-   "when": "Viernes",
-   "days": [
-    "viernes"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Solo tarjeta de crédito Ualá."
-  },
-  {
-   "bank": "Uala",
-   "type": "cashback",
-   "title": "15% en Carrefour Express los lunes (crédito)",
-   "desc": "15% en Carrefour Express los lunes pagando con tarjeta de crédito Ualá.",
-   "value": "15%",
-   "tope": "Tope: $10.000",
-   "tags": [
-    "Supermercados",
-    "Carrefour"
+    "Combustible",
+    "MODO",
+    "UNICO Black"
    ],
    "when": "Lunes",
    "days": [
     "lunes"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Solo tarjeta de crédito Ualá."
+   "details": "Con tarjetas Comafi vía MODO. Exclusivo cuenta UNICO Black."
   },
   {
-   "bank": "Uala",
-   "type": "cashback",
-   "title": "100% en transporte público (colectivo y subte)",
-   "desc": "Hasta 100% de reintegro en colectivos y subte pagando con Ualá.",
-   "value": "100%",
-   "tope": "Tope: $15.000-$20.000/mes",
+   "bank": "Mercado Pago",
+   "cat": "f",
+   "type": "descuento",
+   "title": "Hasta 25% en supermercados con QR",
+   "desc": "Hasta 25% de descuento en Coto, Carrefour y otros supermercados del AMBA y del interior pagando con QR.",
+   "value": "25%",
+   "tope": "Tope: según comercio",
    "tags": [
-    "Transporte",
-    "SUBE"
+    "Supermercados",
+    "QR"
    ],
    "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Pagando con QR de Mercado Pago."
   },
   {
-   "bank": "Naranja X",
+   "bank": "Mercado Pago",
+   "cat": "f",
    "type": "cashback",
-   "title": "30% en supermercados (Plan Épico)",
-   "desc": "30% de descuento en un pago con tarjeta de crédito o débito Visa Naranja X (Plan Épico).",
+   "title": "30% en combustible los lunes",
+   "desc": "30% de descuento en combustible todos los lunes pagando con la tarjeta de crédito Mercado Pago.",
    "value": "30%",
-   "tope": "Tope: $12.000/semana",
+   "tope": "Tope: $6.000/mes",
    "tags": [
-    "Supermercados",
-    "Plan Épico"
+    "Combustible",
+    "Crédito MP"
    ],
-   "when": "Ver app",
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "details": "Con tarjeta de crédito Mercado Pago en estaciones adheridas."
+  },
+  {
+   "bank": "Mercado Pago",
+   "cat": "f",
+   "type": "cashback",
+   "title": "30% en McDonald's los viernes",
+   "desc": "30% de reintegro los viernes en McDonald's pagando con tarjeta de crédito o débito prepaga Mercado Pago.",
+   "value": "30%",
+   "tope": "Tope: $4.000/mes",
+   "tags": [
+    "Gastronomía",
+    "Crédito MP"
+   ],
+   "when": "Viernes",
+   "days": [
+    "viernes"
+   ],
+   "details": "Solo con tarjetas emitidas por Mercado Pago. No aplica con tarjetas de bancos ni otras billeteras."
+  },
+  {
+   "bank": "Mercado Pago",
+   "cat": "f",
+   "type": "cashback",
+   "title": "15% en Burger King los miércoles",
+   "desc": "15% de reintegro los miércoles en Burger King pagando con tarjeta Mercado Pago, sin tope.",
+   "value": "15%",
+   "tope": "Sin tope",
+   "tags": [
+    "Gastronomía",
+    "Crédito MP"
+   ],
+   "when": "Miércoles",
+   "days": [
+    "miercoles"
+   ],
+   "details": "Solo con tarjetas emitidas por Mercado Pago."
+  },
+  {
+   "bank": "Mercado Pago",
+   "cat": "f",
+   "type": "cuotas",
+   "title": "Hasta 12 cuotas sin interés sin tarjeta de crédito",
+   "desc": "Financiá tus compras en 3, 6, 9 o 12 cuotas sin interés, incluso sin tarjeta de crédito, en comercios adheridos.",
+   "value": "12 CSI",
+   "tope": "Sin tope",
+   "tags": [
+    "Cuotas"
+   ],
+   "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial. Requiere Plan Épico. Varía según comercio."
+   "details": ""
   },
   {
    "bank": "Naranja X",
+   "cat": "f",
    "type": "cashback",
-   "title": "50% en transporte con NFC",
-   "desc": "50% de reintegro al pagar colectivo, subte y peajes con NFC desde el celular o reloj, con débito o Visa crédito Naranja X.",
+   "title": "50% en transporte (colectivo, subte y peajes)",
+   "desc": "50% de reintegro pagando el transporte y peajes con tecnología sin contacto (NFC) desde el celular o smartwatch.",
    "value": "50%",
    "tope": "Tope: $5.000/mes",
    "tags": [
@@ -989,154 +944,211 @@
    "days": [
     "todos"
    ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con tarjeta Naranja X Débito o Visa Crédito vía NFC."
   },
   {
    "bank": "Naranja X",
-   "type": "cashback",
-   "title": "50% en subte con QR",
-   "desc": "50% de reintegro al pagar el subte con QR desde la app Naranja X con dinero en cuenta.",
-   "value": "50%",
-   "tope": "Tope: $5.000/mes",
-   "tags": [
-    "Transporte",
-    "Subte",
-    "QR"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
    "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Naranja X",
-   "type": "cuotas",
-   "title": "12 cuotas sin interés con Naranja X",
-   "desc": "Hasta 12 cuotas sin interés en comercios adheridos pagando con Naranja X, todos los días.",
-   "value": "12 CSI",
-   "tope": "Diario",
-   "tags": [
-    "Cuotas"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "MODO",
-   "type": "cashback",
-   "title": "10-25% en Carrefour los sábados",
-   "desc": "10% base en Carrefour los sábados con MODO (Visa crédito BBVA); 15% adicional para clientes con sueldo en el banco.",
-   "value": "10% / 25%",
-   "tope": "Tope: $2.000/usuario",
+   "type": "descuento",
+   "title": "25% en supermercados con Plan Turbo",
+   "desc": "10% de descuento general (25% con Plan Turbo) en ChangoMás, Disco, Vea, Jumbo, Carrefour, Día y Coto.",
+   "value": "25%",
+   "tope": "Tope: $12.000/mes con Turbo",
    "tags": [
     "Supermercados",
-    "Carrefour"
+    "Plan Turbo"
    ],
-   "when": "Sábado",
+   "when": "Todo el mes",
    "days": [
+    "todos"
+   ],
+   "details": "El 25% requiere Plan Turbo activo."
+  },
+  {
+   "bank": "Naranja X",
+   "cat": "f",
+   "type": "cashback",
+   "title": "30% en gastronomía los viernes y sábados",
+   "desc": "30% de reintegro los viernes y sábados en restaurantes, bares y cafeterías adheridos.",
+   "value": "30%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Gastronomía"
+   ],
+   "when": "Viernes y sábados",
+   "days": [
+    "viernes",
     "sabado"
    ],
+   "details": ""
+  },
+  {
+   "bank": "Naranja X",
    "cat": "f",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "type": "cashback",
+   "title": "10% en combustible GULF los fines de semana",
+   "desc": "10% de descuento los sábados y domingos cargando en estaciones GULF con tarjeta de crédito.",
+   "value": "10%",
+   "tope": "Tope: $3.000/transacción",
+   "tags": [
+    "Combustible",
+    "GULF"
+   ],
+   "when": "Sábados y domingos",
+   "days": [
+    "sabado",
+    "domingo"
+   ],
+   "details": ""
+  },
+  {
+   "bank": "Uala",
+   "cat": "f",
+   "type": "cashback",
+   "title": "25% en Coto los lunes",
+   "desc": "25% de reintegro los lunes en Coto pagando con tarjeta de crédito o prepaga Ualá.",
+   "value": "25%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Supermercados"
+   ],
+   "when": "Lunes",
+   "days": [
+    "lunes"
+   ],
+   "details": "Con tarjeta de crédito o prepaga Ualá."
+  },
+  {
+   "bank": "Uala",
+   "cat": "f",
+   "type": "cashback",
+   "title": "25% en ChangoMás los jueves",
+   "desc": "25% de reintegro los jueves en ChangoMás, exclusivo para tarjetas de crédito Ualá.",
+   "value": "25%",
+   "tope": "Tope: $15.000/mes",
+   "tags": [
+    "Supermercados",
+    "Crédito"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "details": "Exclusivo tarjeta de crédito Ualá."
+  },
+  {
+   "bank": "Uala",
+   "cat": "f",
+   "type": "cashback",
+   "title": "60% en Open 25h los fines de semana",
+   "desc": "60% de reintegro viernes, sábados y domingos en Open 25h pagando con el celular vía NFC (40% con tarjeta física sin contacto).",
+   "value": "60%",
+   "tope": "Tope: $5.000/día",
+   "tags": [
+    "Kiosco",
+    "NFC"
+   ],
+   "when": "Vie a dom",
+   "days": [
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "details": "60% pagando con celular NFC; 40% con tarjeta física contactless."
+  },
+  {
+   "bank": "Uala",
+   "cat": "f",
+   "type": "cashback",
+   "title": "30% en gastronomía los fines de semana",
+   "desc": "30% de reintegro los sábados y domingos en restaurantes, comida rápida, cervecerías y cafeterías de todo el país.",
+   "value": "30%",
+   "tope": "Tope: $30.000/mes",
+   "tags": [
+    "Gastronomía",
+    "NFC"
+   ],
+   "when": "Sábados y domingos",
+   "days": [
+    "sabado",
+    "domingo"
+   ],
+   "details": "Solo pagando con el celular vía NFC. Equivale a $7.500 por semana."
+  },
+  {
+   "bank": "Personal Pay",
+   "cat": "f",
+   "type": "cashback",
+   "title": "25% en supermercados",
+   "desc": "25% de reintegro en ChangoMás, Día y supermercados seleccionados pagando con Visa Personal Pay vía NFC desde Android.",
+   "value": "25%",
+   "tope": "Tope: $6.000 a $15.000/semana según nivel",
+   "tags": [
+    "Supermercados",
+    "NFC"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Con Visa Personal Pay NFC desde Android. Nivel 1 $6.000/sem, Nivel 4 (Personal Flow) $15.000/sem. Se acredita en 48 h."
   },
   {
    "bank": "Lemon Cash",
+   "cat": "c",
    "type": "cashback",
-   "title": "0,5% de cashback en BTC en todas las compras",
-   "desc": "0,5% de cashback en Bitcoin pagando con pesos en cuenta con la tarjeta Lemon; 2% en BTC si pagás con cripto.",
+   "title": "0,5% de cashback en Bitcoin en todas las compras",
+   "desc": "0,5% de cashback en BTC pagando con pesos en cuenta y 2% en BTC pagando con cripto, en cualquier compra con la tarjeta prepaga Lemon.",
    "value": "0,5% / 2% BTC",
-   "tope": "Sin tope declarado",
+   "tope": "Sin tope",
    "tags": [
-    "Tarjeta",
+    "Cashback",
     "Bitcoin",
-    "Cashback"
+    "Tarjeta"
    ],
    "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "c",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con la tarjeta prepaga internacional Lemon. 2% al pagar con cripto."
   },
   {
    "bank": "Belo",
+   "cat": "c",
    "type": "cashback",
-   "title": "Cashback aleatorio del 2% al 21% con la tarjeta",
-   "desc": "Sistema de cashback aleatorio del 2% al 21% del monto de cada compra realizada con la tarjeta prepaga Belo.",
-   "value": "2% a 21%",
-   "tope": "Aleatorio por compra",
+   "title": "Cashback aleatorio del 0,1% al 21%",
+   "desc": "Cashback aleatorio de entre 0,1% y 21% en cripto (también aleatoria) por cada compra con la tarjeta prepaga Belo.",
+   "value": "hasta 21%",
+   "tope": "Sin tope",
    "tags": [
-    "Tarjeta",
-    "Cashback"
+    "Cashback",
+    "Cripto",
+    "Tarjeta"
    ],
    "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "c",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con la tarjeta prepaga Belo. El porcentaje y la cripto que se devuelven son aleatorios."
   },
   {
    "bank": "Buenbit",
+   "cat": "c",
    "type": "cashback",
-   "title": "1% de cashback con la tarjeta (según nivel)",
-   "desc": "Cashback por niveles según volumen operado en los últimos 30 días. Nivel 1: 1%, tope $7.000/mes.",
+   "title": "1% de cashback con la tarjeta prepaga",
+   "desc": "1% de cashback (nivel 1) en cripto por cada compra con la tarjeta prepaga Buenbit.",
    "value": "1%",
-   "tope": "Tope: $7.000/mes",
+   "tope": "Tope: $500/mes",
    "tags": [
-    "Tarjeta",
-    "Cashback"
+    "Cashback",
+    "Cripto",
+    "Tarjeta"
    ],
    "when": "Todo el mes",
    "days": [
     "todos"
    ],
-   "cat": "c",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Ripio",
-   "type": "cashback",
-   "title": "3% de cashback en USDC con la tarjeta Ripio",
-   "desc": "3% fijo de cashback en USDC por cada compra con la tarjeta prepaga Ripio.",
-   "value": "3% USDC",
-   "tope": "Ver condiciones",
-   "tags": [
-    "Tarjeta",
-    "USDC",
-    "Cashback"
-   ],
-   "when": "Todo el mes",
-   "days": [
-    "todos"
-   ],
-   "cat": "c",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
-  },
-  {
-   "bank": "Ripio",
-   "type": "cashback",
-   "title": "5% en combustible los miércoles (UXD)",
-   "desc": "5% de reintegro en UXD al cargar combustible los miércoles con Ripio.",
-   "value": "5% UXD",
-   "tope": "Ver tope en app",
-   "tags": [
-    "Combustible",
-    "UXD"
-   ],
-   "when": "Miércoles",
-   "days": [
-    "miercoles"
-   ],
-   "cat": "c",
-   "details": "Fuente: relevamiento web (sitioandino, mdzol, cronista, iprofesional, infozona, calcularsueldo) sept-2026. Verificá en la app oficial."
+   "details": "Con la tarjeta prepaga Buenbit. Nivel 1: tope $500 mensual."
   }
  ],
  "cupones": [
@@ -1158,7 +1170,7 @@
    ],
    "link": "https://www.ypf.com",
    "desc": "10% en nafta Infinia y diesel los lunes pagando con la App YPF. Acumulable con otros beneficios.",
-   "details": "Fuente: canal26/infobae. Con App YPF en estaciones adheridas. Tope $3.500 semanal."
+   "details": "Con App YPF en estaciones adheridas. Tope $3.500 semanal."
   },
   {
    "store": "Shell Box",
@@ -1179,7 +1191,7 @@
    ],
    "link": "https://www.shell.com.ar",
    "desc": "10% en combustibles Quantium los lunes y viernes usando la app ON de Axion Energy.",
-   "details": "Fuente: canal26. App ON de Axion. Tope varía según nivel del usuario."
+   "details": "App ON de Axion. Tope varía según nivel del usuario."
   },
   {
    "store": "Banco Galicia",
@@ -1199,7 +1211,7 @@
    ],
    "link": "https://www.galicia.ar",
    "desc": "10% pagando con Mastercard Galicia vía MODO en YPF y Axion. 15% para clientes Éminent.",
-   "details": "Fuente: infobae/canal26. Con Mastercard Galicia vía MODO en estaciones YPF y Axion adheridas."
+   "details": "Con Mastercard Galicia vía MODO en estaciones YPF y Axion adheridas."
   },
   {
    "store": "Mercado Pago",
@@ -1218,7 +1230,7 @@
    ],
    "link": "https://www.mercadopago.com.ar",
    "desc": "30% pagando con tarjeta de crédito física Mercado Pago los lunes en estaciones de servicio.",
-   "details": "Fuente: mdzol. Con tarjeta crédito física MP en estaciones adheridas. Tope $6.000 mensual."
+   "details": "Con tarjeta crédito física MP en estaciones adheridas. Tope $6.000 mensual."
   },
   {
    "store": "Banco Comafi",
@@ -1238,7 +1250,7 @@
    ],
    "link": "https://www.comafi.com.ar",
    "desc": "10% para clientes estándar y hasta 20% para Premium/Platinum en Axion los lunes pagando con MODO.",
-   "details": "Fuente: canal26. Con tarjetas Comafi vía MODO en Axion. Unique Black: 20% tope $10.000."
+   "details": "Con tarjetas Comafi vía MODO en Axion. Unique Black: 20% tope $10.000."
   },
   {
    "store": "PedidosYa",
@@ -1257,7 +1269,7 @@
    ],
    "link": "https://www.pedidosya.com.ar",
    "desc": "Sección Descuentos Hoy con hasta 50% en restaurantes seleccionados todos los lunes.",
-   "details": "Fuente: descuentazo. Los restaurantes participantes cambian cada día en la app PedidosYa."
+   "details": "Los restaurantes participantes cambian cada día en la app PedidosYa."
   },
   {
    "store": "Cabify",
@@ -1277,7 +1289,7 @@
    ],
    "link": "https://www.cabify.com/ar",
    "desc": "25% de descuento en viajes Cabify para socios del Banco Hipotecario, todos los días.",
-   "details": "Fuente: picodi.com.ar. Para clientes Banco Hipotecario. Aplica todos los días de la semana."
+   "details": "Para clientes Banco Hipotecario. Aplica todos los días de la semana."
   },
   {
    "store": "Burger King",
@@ -1297,7 +1309,7 @@
    ],
    "link": "https://www.burgerking.com.ar",
    "desc": "40% de descuento en compras los martes exclusivamente a través de la app móvil de Burger King.",
-   "details": "Fuente: descuentazo. No combinable con otras ofertas. No válido para delivery."
+   "details": "No combinable con otras ofertas. No válido para delivery."
   },
   {
    "store": "Banco Supervielle",
@@ -1317,7 +1329,7 @@
    ],
    "link": "https://www.supervielle.com.ar",
    "desc": "20% general (25% Identité/plan sueldo) en Jumbo, Disco, Vea y ChangoMás los martes.",
-   "details": "Fuente: infobae. Débito físico tope $25.000, QR tope $15.000."
+   "details": "Débito físico tope $25.000, QR tope $15.000."
   },
   {
    "store": "ICBC",
@@ -1337,7 +1349,7 @@
    ],
    "link": "https://www.icbc.com.ar",
    "desc": "15% en estaciones de servicio para clientes ICBC con cuenta sueldo vía MODO los martes.",
-   "details": "Fuente: infobae/canal26. Solo para cuentas sueldo ICBC. Con MODO."
+   "details": "Solo para cuentas sueldo ICBC. Con MODO."
   },
   {
    "store": "Banco Hipotecario",
@@ -1357,7 +1369,7 @@
    ],
    "link": "https://www.hipotecario.com.ar",
    "desc": "15% en YPF los martes para clientes Búho One con Visa Signature o Platinum vía App YPF.",
-   "details": "Fuente: infobae. Solo para clientes Búho One. Con Visa Signature o Platinum desde App YPF."
+   "details": "Solo para clientes Búho One. Con Visa Signature o Platinum desde App YPF."
   },
   {
    "store": "Cinemark Hoyts",
@@ -1376,7 +1388,7 @@
    ],
    "link": "https://www.hoyts.com.ar",
    "desc": "2×1 en entradas de cine los martes con tarjetas bancarias adheridas en Hoyts.",
-   "details": "Verificá cuáles tarjetas aplican en hoyts.com.ar."
+   "details": ""
   },
   {
    "store": "PedidosYa",
@@ -1396,7 +1408,7 @@
    ],
    "link": "https://www.pedidosya.com.ar",
    "desc": "35% de reintegro en PedidosYa con tarjeta Visa crédito Banco Macro los martes (PedidosYa Plus).",
-   "details": "Fuente: descuentazo. Solo para usuarios PedidosYa Plus. Tope $6.000 por cuenta por mes."
+   "details": "Solo para usuarios PedidosYa Plus. Tope $6.000 por cuenta por mes."
   },
   {
    "store": "YPF Serviclub",
@@ -1415,7 +1427,7 @@
    ],
    "link": "https://www.ypf.com",
    "desc": "10% pagando con la App YPF en Infinia nafta e Infinia diesel los martes.",
-   "details": "Fuente: ambito. Con App YPF en estaciones adheridas."
+   "details": "Con App YPF en estaciones adheridas."
   },
   {
    "store": "Shell Box",
@@ -1435,7 +1447,7 @@
    ],
    "link": "https://www.shell.com.ar",
    "desc": "10% en combustibles V-Power los miércoles usando la app Shell Box.",
-   "details": "Fuente: canal26/infobae. Descarga Shell Box y pagá en estaciones Shell adheridas."
+   "details": "Descarga Shell Box y pagá en estaciones Shell adheridas."
   },
   {
    "store": "Puma Pris",
@@ -1455,7 +1467,7 @@
    ],
    "link": "https://www.pumaenergy.com",
    "desc": "10% en nafta súper, premium e Ion Diesel los miércoles con la app Puma Pris.",
-   "details": "Fuente: canal26. Con app Puma Pris pagando con tarjeta, débito o Mercado Pago."
+   "details": "Con app Puma Pris pagando con tarjeta, débito o Mercado Pago."
   },
   {
    "store": "Banco Macro",
@@ -1475,7 +1487,7 @@
    ],
    "link": "https://www.macro.com.ar",
    "desc": "20% para clientes Platinum y 30% para Selecta en YPF, Shell y Axion los miércoles.",
-   "details": "Fuente: infobae/canal26. Con MODO o Visa Signature/Platinum. Tope: $15.000 Platinum / $25.000 Selecta."
+   "details": "Con MODO o Visa Signature/Platinum. Tope: $15.000 Platinum / $25.000 Selecta."
   },
   {
    "store": "MODO",
@@ -1495,7 +1507,7 @@
    ],
    "link": "https://www.modo.com.ar",
    "desc": "10% en Shell los miércoles pagando con MODO. Aplica para clientes de BBVA, ICBC, Patagonia, Santander y más.",
-   "details": "Fuente: ambito. Con MODO en estaciones Shell adheridas. Aplican bancos: BBVA, ICBC, Patagonia, Santander, Galicia, Macro, Nación, HSBC."
+   "details": "Con MODO en estaciones Shell adheridas. Aplican bancos: BBVA, ICBC, Patagonia, Santander, Galicia, Macro, Nación, HSBC."
   },
   {
    "store": "Cinemark",
@@ -1514,7 +1526,7 @@
    ],
    "link": "https://www.cinemark.com.ar",
    "desc": "2×1 en entradas de cine los miércoles con tarjetas bancarias adheridas en Cinemark.",
-   "details": "Verificá cuáles tarjetas aplican en cinemark.com.ar."
+   "details": ""
   },
   {
    "store": "Uala",
@@ -1534,7 +1546,7 @@
    ],
    "link": "https://www.uala.com.ar",
    "desc": "30% de reintegro en Pedidos Ya Market los miércoles pagando con tarjeta Ualá.",
-   "details": "Fuente: iProUP. Con tarjeta Ualá en Pedidos Ya Market los miércoles."
+   "details": "Con tarjeta Ualá en Pedidos Ya Market los miércoles."
   },
   {
    "store": "PedidosYa",
@@ -1555,7 +1567,7 @@
    ],
    "link": "https://www.pedidosya.com.ar",
    "desc": "30% con Visa/Mastercard Platinum, Signature o Black. 20% cartera general IUDÚ. Miércoles y jueves.",
-   "details": "Fuente: descuentazo. Tope $7.000 general, $3.500 IUDÚ. Solo en web/app PedidosYa."
+   "details": "Tope $7.000 general, $3.500 IUDÚ. Solo en web/app PedidosYa."
   },
   {
    "store": "Burger King",
@@ -1575,7 +1587,7 @@
    ],
    "link": "https://www.burgerking.com.ar",
    "desc": "40% de descuento en compras los jueves exclusivamente a través de la app móvil de Burger King.",
-   "details": "Fuente: descuentazo. No combinable con otras ofertas. No válido para delivery."
+   "details": "No combinable con otras ofertas. No válido para delivery."
   },
   {
    "store": "Banco Santander",
@@ -1595,7 +1607,7 @@
    ],
    "link": "https://www.santander.com.ar",
    "desc": "10% en YPF los jueves pagando con tarjetas Visa Black o Platinum Santander desde la App YPF.",
-   "details": "Fuente: infobae. Solo Visa Black o Platinum Santander desde App YPF."
+   "details": "Solo Visa Black o Platinum Santander desde App YPF."
   },
   {
    "store": "Banco Patagonia",
@@ -1614,7 +1626,7 @@
    ],
    "link": "https://www.bancopatagonia.com.ar",
    "desc": "20% clásico, hasta 25% Singular en estaciones adheridas los jueves con tarjeta Patagonia.",
-   "details": "Fuente: mdzol. Con tarjeta Patagonia en estaciones de servicio adheridas."
+   "details": "Con tarjeta Patagonia en estaciones de servicio adheridas."
   },
   {
    "store": "Shell Jumbo+",
@@ -1634,7 +1646,7 @@
    ],
    "link": "https://www.shell.com.ar",
    "desc": "10% en Shell V-Power los jueves para socios Jumbo+ o Vea Ahorro desde Shell Box. +5% con tarjeta Cencosud.",
-   "details": "Fuente: infobae/canal26. Socios Jumbo+ o Vea Ahorro. +5% adicional pagando con crédito Cencopay."
+   "details": "Socios Jumbo+ o Vea Ahorro. +5% adicional pagando con crédito Cencopay."
   },
   {
    "store": "Naranja X",
@@ -1654,7 +1666,7 @@
    ],
    "link": "https://www.farmaonline.com",
    "desc": "20% en FarmaOnline los jueves con tarjeta de crédito Naranja X.",
-   "details": "Fuente: farmaonline. Válido jueves de marzo 2026."
+   "details": "Válido jueves de marzo 2026."
   },
   {
    "store": "PedidosYa",
@@ -1674,7 +1686,7 @@
    ],
    "link": "https://www.pedidosya.com.ar",
    "desc": "35% Singular, 30% clásico/plus en PedidosYa con tarjeta de crédito Patagonia los jueves.",
-   "details": "Fuente: descuentazo. Acumulable con otras promociones del portal. Tope: $6.000 Singular / $5.000 resto."
+   "details": "Acumulable con otras promociones del portal. Tope: $6.000 Singular / $5.000 resto."
   },
   {
    "store": "YOY Banco",
@@ -1694,7 +1706,7 @@
    ],
    "link": "https://www.yoydigital.com.ar",
    "desc": "20% en MásOnline y ChangoMás con tarjeta Mastercard o Visa débito YOY pagando con MODO los jueves.",
-   "details": "Fuente: descuentazo. Con MODO o integración en app YOY. No acumulable."
+   "details": "Con MODO o integración en app YOY. No acumulable."
   },
   {
    "store": "Shell Box",
@@ -1714,7 +1726,7 @@
    ],
    "link": "https://www.shell.com.ar",
    "desc": "10% en combustibles Quantium los viernes con la app ON de Axion Energy.",
-   "details": "Fuente: canal26. App ON Axion. Tope mensual varía según nivel del usuario."
+   "details": "App ON Axion. Tope mensual varía según nivel del usuario."
   },
   {
    "store": "Banco Credicoop",
@@ -1734,7 +1746,7 @@
    ],
    "link": "https://www.bancocredicoop.coop",
    "desc": "15-20% según categoría de cliente en combustible los viernes pagando con MODO con tarjeta Credicoop.",
-   "details": "Fuente: mdzol. Cuenta sueldo Credicoop vía MODO. Tope $6.000 semanal."
+   "details": "Cuenta sueldo Credicoop vía MODO. Tope $6.000 semanal."
   },
   {
    "store": "ICBC",
@@ -1754,7 +1766,7 @@
    ],
    "link": "https://www.farmaonline.com",
    "desc": "15% en FarmaOnline con tarjeta Visa/Mastercard ICBC los viernes. Con MODO suma hasta $5.000 de tope.",
-   "details": "Fuente: descuentazo. Con MODO: tope $5.000. Sin MODO: tope $3.000 por transacción."
+   "details": "Con MODO: tope $5.000. Sin MODO: tope $3.000 por transacción."
   },
   {
    "store": "Banco Comafi",
@@ -1774,7 +1786,7 @@
    ],
    "link": "https://www.comafi.com.ar",
    "desc": "10% estándar, hasta 20% Premium/Platinum en Puma Energy los viernes con MODO.",
-   "details": "Fuente: canal26. Con tarjetas Comafi vía MODO en Puma. Único Black: 20% tope $10.000."
+   "details": "Con tarjetas Comafi vía MODO en Puma. Único Black: 20% tope $10.000."
   },
   {
    "store": "Personal Pay",
@@ -1796,7 +1808,7 @@
    ],
    "link": "https://www.personalpay.com.ar",
    "desc": "20% de reintegro en PedidosYa los viernes, sábados y domingos pagando con VISA Personal Pay.",
-   "details": "Fuente: descuentazo. Tope: $2.000 Nivel 1, $4.000 Nivel 2, $6.000 Nivel 3."
+   "details": "Tope: $2.000 Nivel 1, $4.000 Nivel 2, $6.000 Nivel 3."
   },
   {
    "store": "Brubank",
@@ -1819,7 +1831,7 @@
    ],
    "link": "https://www.brubank.com.ar",
    "desc": "20% Plan Plus vie/sáb/dom. Plan Ultra: 30% todos los días con tope $30.000 mensual en Axion.",
-   "details": "Fuente: canal26/mdzol. Con Visa Brubank. Plan Plus: tope $4.000/semana. Ultra: $6.000/operación."
+   "details": "Con Visa Brubank. Plan Plus: tope $4.000/semana. Ultra: $6.000/operación."
   },
   {
    "store": "Banco Comafi",
@@ -1840,7 +1852,7 @@
    ],
    "link": "https://www.comafi.com.ar",
    "desc": "10% estándar, hasta 20% para Premium/Platinum en YPF los sábados pagando con MODO.",
-   "details": "Fuente: canal26. Con tarjetas Comafi vía MODO en YPF. Único Black: 20% tope $10.000."
+   "details": "Con tarjetas Comafi vía MODO en YPF. Único Black: 20% tope $10.000."
   },
   {
    "store": "Naranja X",
@@ -1862,7 +1874,7 @@
    ],
    "link": "https://www.pedidosya.com.ar",
    "desc": "30% de reintegro en PedidosYa los sábados y domingos pagando con débito Naranja X.",
-   "details": "Fuente: descuentazo. Válido hasta agotar stock de 200.000 beneficios."
+   "details": "Válido hasta agotar stock de 200.000 beneficios."
   },
   {
    "store": "Personal Pay",
@@ -1883,7 +1895,7 @@
    ],
    "link": "https://www.personalpay.com.ar",
    "desc": "20% en PedidosYa los sábados con VISA Personal Pay. Tope varía según nivel de cuenta.",
-   "details": "Fuente: descuentazo. Niveles: $2.000 N1, $4.000 N2, $6.000 N3."
+   "details": "Niveles: $2.000 N1, $4.000 N2, $6.000 N3."
   },
   {
    "store": "Banco Galicia",
@@ -1926,7 +1938,7 @@
    ],
    "link": "https://www.bancociudad.com.ar",
    "desc": "10% con MODO o Buepp, 15% para jubilados y plan sueldo en combustible los domingos.",
-   "details": "Fuente: infobae/canal26. Con MODO o Buepp en estaciones de servicio. Tope: $10.000 general / $15.000 con plan sueldo o jubilados."
+   "details": "Con MODO o Buepp en estaciones de servicio. Tope: $10.000 general / $15.000 con plan sueldo o jubilados."
   },
   {
    "store": "Banco Comafi",
@@ -1947,7 +1959,7 @@
    ],
    "link": "https://www.comafi.com.ar",
    "desc": "20% para clientes Único en Shell y Axion los domingos pagando con MODO. Ahorrá hasta $50.000 en marzo.",
-   "details": "Fuente: infobae. Marzo tiene 5 domingos. Para clientes Único Black Comafi. Con MODO."
+   "details": "Marzo tiene 5 domingos. Para clientes Único Black Comafi. Con MODO."
   },
   {
    "store": "Naranja X",
@@ -1968,7 +1980,7 @@
    ],
    "link": "https://www.pedidosya.com.ar",
    "desc": "30% en PedidosYa los domingos con débito Naranja X. Hasta agotar stock.",
-   "details": "Fuente: descuentazo. Con débito Naranja X en PedidosYa."
+   "details": "Con débito Naranja X en PedidosYa."
   },
   {
    "store": "YPF Serviclub",
@@ -1988,7 +2000,7 @@
    ],
    "link": "https://www.ypf.com",
    "desc": "6% de descuento todos los días cargando entre las 0 y 6am con la App YPF. Sin tope de reintegro.",
-   "details": "Fuente: canal26/infobae. Con App YPF entre 0:00 y 6:00am. Sin tope. Acumulable con autodespacho."
+   "details": "Con App YPF entre 0:00 y 6:00am. Sin tope. Acumulable con autodespacho."
   },
   {
    "store": "YPF Serviclub",
@@ -2007,7 +2019,7 @@
    ],
    "link": "https://www.ypf.com",
    "desc": "3% adicional eligiendo la modalidad de autodespacho en YPF. Acumulable con el descuento nocturno.",
-   "details": "Fuente: canal26. Sin tope. Acumulable con 6% nocturno = 9% total."
+   "details": "Sin tope. Acumulable con 6% nocturno = 9% total."
   },
   {
    "store": "YPF ACA",
@@ -2027,7 +2039,7 @@
    ],
    "link": "https://www.ypf.com",
    "desc": "5% de descuento todos los días en YPF para socios del Automóvil Club Argentino.",
-   "details": "Fuente: canal26. En estaciones YPF adheridas con tarjeta socio ACA. Tope $14.500 mensual."
+   "details": "En estaciones YPF adheridas con tarjeta socio ACA. Tope $14.500 mensual."
   },
   {
    "store": "Brubank Plan Ultra",
@@ -2047,7 +2059,7 @@
    ],
    "link": "https://www.brubank.com.ar",
    "desc": "30% en Axion todos los días para clientes Brubank Plan Ultra. El mayor descuento permanente en combustible.",
-   "details": "Fuente: canal26/mdzol. Solo Plan Ultra. Tope $6.000 por operación y $30.000 mensual."
+   "details": "Solo Plan Ultra. Tope $6.000 por operación y $30.000 mensual."
   },
   {
    "store": "Frávega",
@@ -2430,7 +2442,7 @@
    ],
    "link": "https://www.cabify.com/ar",
    "desc": "25% en viajes Cabify todos los días para socios del Banco Hipotecario.",
-   "details": "Fuente: picodi.com.ar. Para clientes Banco Hipotecario."
+   "details": "Para clientes Banco Hipotecario."
   },
   {
    "store": "Despegar",
