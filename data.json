@@ -1,6 +1,6 @@
 {
  "updated": "Septiembre 2026",
- "version": "2026-09-02T18:00:00Z",
+ "version": "2026-09-02T20:00:00Z",
  "promos": [
   {
    "bank": "Banco Nación",
@@ -294,7 +294,7 @@
    "title": "25% en Matices Gastronómicos",
    "desc": "25% de descuento en establecimientos adheridos al programa Matices pagando con BNA+ MODO.",
    "value": "25%",
-   "pago": "",
+   "pago": "MODO",
    "comercios": [
     "*gastronomia"
    ],
@@ -358,7 +358,7 @@
    "title": "10% en farmacias para jubilados",
    "desc": "10% de descuento en farmacias adheridas para jubilados, con hasta 3 cuotas sin interés.",
    "value": "10%",
-   "pago": "",
+   "pago": "MODO",
    "comercios": [
     "*farmacia"
    ],
@@ -404,7 +404,7 @@
    "title": "10% en ópticas",
    "desc": "10% de descuento en ópticas adheridas, sin tope, con hasta 3 cuotas sin interés.",
    "value": "10%",
-   "pago": "",
+   "pago": "MODO",
    "comercios": [],
    "tope": "Sin tope",
    "min": null,
@@ -426,7 +426,7 @@
    "title": "20% en shoppings",
    "desc": "20% de descuento en shoppings de la provincia, con hasta 9 cuotas sin interés.",
    "value": "20%",
-   "pago": "",
+   "pago": "MODO",
    "comercios": [],
    "tope": "$30.000/compra",
    "min": null,
@@ -522,7 +522,7 @@
    "title": "10% en YPF y Shell los domingos",
    "desc": "10% de reintegro los domingos cargando combustible en YPF y Shell.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF",
     "Shell"
@@ -626,7 +626,7 @@
    "title": "Hasta 30% en indumentaria y perfumerías los martes",
    "desc": "Hasta 30% de descuento y cuotas sin interés los martes en locales de indumentaria y perfumerías.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [],
    "tope": "",
    "min": null,
@@ -650,7 +650,7 @@
    "title": "10% en YPF y Shell",
    "desc": "10% de reintegro cargando combustible en estaciones YPF y Shell.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF",
     "Shell"
@@ -676,7 +676,7 @@
    "title": "15% en combustible con Éminent",
    "desc": "15% de reintegro en YPF y Shell para clientes del segmento Éminent.",
    "value": "15%",
-   "pago": "",
+   "pago": "MODO",
    "comercios": [
     "YPF",
     "Shell"
@@ -702,7 +702,7 @@
    "title": "10% en combustible con Extra Cuenta Sueldo",
    "desc": "10% de reintegro en YPF y Shell para clientes con Galicia Extra Cuenta Sueldo.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF",
     "Shell"
@@ -779,7 +779,7 @@
    "title": "Descuento en ChangoMás los viernes",
    "desc": "Descuento los viernes en ChangoMás con tope mensual, más un extra para clientes con cuenta sueldo.",
    "value": "",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "ChangoMás"
    ],
@@ -882,7 +882,7 @@
    "title": "10% en YPF con Santander Sorpresa",
    "desc": "10% de reintegro cargando combustible en YPF dentro del programa Santander Sorpresa.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF"
    ],
@@ -1084,7 +1084,7 @@
    "title": "20% en YPF los miércoles",
    "desc": "20% de reintegro los miércoles cargando combustible en YPF.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF"
    ],
@@ -1236,7 +1236,7 @@
    "title": "Hasta 35% en PedidosYa Plus",
    "desc": "Hasta 35% de descuento en PedidosYa Plus en días seleccionados.",
    "value": "35%",
-   "pago": "",
+   "pago": "Crédito",
    "comercios": [
     "PedidosYa"
    ],
@@ -1616,7 +1616,7 @@
    "title": "15% en YPF los lunes con Cuenta Sueldo",
    "desc": "15% de reintegro los lunes en YPF para clientes con cuenta sueldo en ICBC.",
    "value": "15%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF"
    ],
@@ -1641,7 +1641,7 @@
    "title": "30% en gastronomía",
    "desc": "30% de descuento en locales gastronómicos adheridos.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "*gastronomia"
    ],
@@ -1918,7 +1918,7 @@
    "title": "Hasta 30% en supermercados los viernes y sábados",
    "desc": "Hasta 30% de descuento los viernes y sábados en supermercados seleccionados.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "*supermercados"
    ],
@@ -1944,7 +1944,7 @@
    "title": "15% en farmacias",
    "desc": "15% de descuento en farmacias adheridas durante todo el mes.",
    "value": "15%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "*farmacia"
    ],
@@ -2069,7 +2069,7 @@
    "title": "20% en YPF y Shell",
    "desc": "20% de reintegro cargando combustible en estaciones YPF y Shell.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF",
     "Shell"
@@ -2095,7 +2095,7 @@
    "title": "15% en YPF los lunes con Búho One",
    "desc": "15% de reintegro los lunes en YPF para clientes del paquete Búho One.",
    "value": "15%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "YPF"
    ],
@@ -2870,7 +2870,7 @@
    "title": "50% de reintegro en Cerini con Plan Ultra",
    "desc": "50% de reintegro todos los días en Cerini para suscriptores del Plan Ultra.",
    "value": "50%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Cerini"
    ],
@@ -2896,7 +2896,7 @@
    "title": "40% de reintegro en Cabify con Plan Ultra",
    "desc": "40% de reintegro todos los días en Cabify para suscriptores del Plan Ultra.",
    "value": "40%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Cabify"
    ],
@@ -2922,7 +2922,7 @@
    "title": "40% de reintegro en Freddo con Plan Ultra",
    "desc": "40% de reintegro todos los días en Freddo para suscriptores del Plan Ultra.",
    "value": "40%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Freddo"
    ],
@@ -2948,7 +2948,7 @@
    "title": "40% de reintegro en Rapanui con Plan Ultra",
    "desc": "40% de reintegro todos los días en Rapanui para suscriptores del Plan Ultra.",
    "value": "40%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Rapanui"
    ],
@@ -2974,7 +2974,7 @@
    "title": "30% de reintegro en Axion Energy con Plan Ultra",
    "desc": "30% de reintegro todos los días en Axion Energy para suscriptores del Plan Ultra.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Axion Energy"
    ],
@@ -3000,7 +3000,7 @@
    "title": "30% de reintegro en Burger King con Plan Ultra",
    "desc": "30% de reintegro todos los días en Burger King para suscriptores del Plan Ultra.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Burger King"
    ],
@@ -3026,7 +3026,7 @@
    "title": "30% de reintegro en Farmacity con Plan Ultra",
    "desc": "30% de reintegro todos los días en Farmacity para suscriptores del Plan Ultra.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Farmacity"
    ],
@@ -3052,7 +3052,7 @@
    "title": "50% de reintegro en Cerini con Plan Plus",
    "desc": "50% de reintegro de viernes a domingo en Cerini para suscriptores del Plan Plus.",
    "value": "50%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Cerini"
    ],
@@ -3078,7 +3078,7 @@
    "title": "30% de reintegro en Cabify con Plan Plus",
    "desc": "30% de reintegro de viernes a domingo en Cabify para suscriptores del Plan Plus.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Cabify"
    ],
@@ -3104,7 +3104,7 @@
    "title": "30% de reintegro en Burger King con Plan Plus",
    "desc": "30% de reintegro de viernes a domingo en Burger King para suscriptores del Plan Plus.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Burger King"
    ],
@@ -3130,7 +3130,7 @@
    "title": "30% de reintegro en Farmacity con Plan Plus",
    "desc": "30% de reintegro de viernes a domingo en Farmacity para suscriptores del Plan Plus.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Farmacity"
    ],
@@ -3156,7 +3156,7 @@
    "title": "10% de reintegro en Axion Energy",
    "desc": "10% de reintegro los martes en Axion Energy para clientes del Plan One.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Axion Energy"
    ],
@@ -3182,7 +3182,7 @@
    "title": "20% de reintegro en Cervelar",
    "desc": "20% de reintegro los miércoles en Cervelar para clientes del Plan One.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Cervelar"
    ],
@@ -3208,7 +3208,7 @@
    "title": "20% de reintegro en Le Pain Quotidien",
    "desc": "20% de reintegro los miércoles en Le Pain Quotidien para clientes del Plan One.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Le Pain Quotidien"
    ],
@@ -3234,7 +3234,7 @@
    "title": "20% de reintegro en Farmacity",
    "desc": "20% de reintegro los viernes en Farmacity para clientes del Plan One.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Farmacity"
    ],
@@ -3260,7 +3260,7 @@
    "title": "20% de reintegro en Simplicity",
    "desc": "20% de reintegro los viernes en Simplicity para clientes del Plan One.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Simplicity"
    ],
@@ -3286,7 +3286,7 @@
    "title": "20% de reintegro en Burger King",
    "desc": "20% de reintegro los lunes en Burger King para clientes del Plan One.",
    "value": "20%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Burger King"
    ],
@@ -3312,9 +3312,9 @@
    "title": "10% de reintegro en App YPF",
    "desc": "10% de reintegro los lunes en App YPF para clientes del Plan One.",
    "value": "10%",
-   "pago": "",
+   "pago": "App",
    "comercios": [
-    "App YPF"
+    "YPF"
    ],
    "tope": "$6.000",
    "min": null,
@@ -3520,7 +3520,7 @@
    "title": "15% en Playmobil",
    "desc": "15% de descuento todos los días en Playmobil.",
    "value": "15%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Playmobil"
    ],
@@ -3545,7 +3545,7 @@
    "title": "30% en Eyelit",
    "desc": "30% de descuento de jueves a domingo en Eyelit.",
    "value": "30%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Eyelit"
    ],
@@ -3573,7 +3573,7 @@
    "title": "10% en Celeste Perfumerías",
    "desc": "10% de descuento de lunes a viernes en Celeste Perfumerías.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Celeste Perfumerías"
    ],
@@ -3928,7 +3928,7 @@
    "title": "Hasta 25% en gastronomía",
    "desc": "Hasta 25% de reintegro en locales gastronómicos adheridos.",
    "value": "25%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "*gastronomia"
    ],
@@ -3953,7 +3953,7 @@
    "title": "10% en Shell",
    "desc": "10% de reintegro cargando combustible en estaciones Shell.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Shell"
    ],
@@ -4499,7 +4499,7 @@
    "title": "30% en veterinarias y pet shops",
    "desc": "30% de descuento en veterinarias y pet shops adheridos.",
    "value": "30%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$8.000/semana",
    "min": 26650,
@@ -4522,7 +4522,7 @@
    "title": "20% en comercios de cercanía",
    "desc": "20% de descuento en comercios de cercanía adheridos.",
    "value": "20%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$6.000/semana",
    "min": 30000,
@@ -4549,7 +4549,7 @@
    "title": "40% en ferias y mercados bonaerenses",
    "desc": "40% de descuento en ferias y mercados bonaerenses.",
    "value": "40%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$6.000/semana",
    "min": 15000,
@@ -4572,7 +4572,7 @@
    "title": "40% en garrafas",
    "desc": "40% de descuento en puntos de venta de garrafas adheridos.",
    "value": "40%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$18.000/mes",
    "min": 45000,
@@ -4595,7 +4595,7 @@
    "title": "40% en universidades, clubes y entidades educativas",
    "desc": "40% de descuento en universidades, eventos, entidades educativas y clubes.",
    "value": "40%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$6.000/semana",
    "min": 15000,
@@ -4618,7 +4618,7 @@
    "title": "25% en gastronomía los fines de semana",
    "desc": "25% de descuento en locales gastronómicos adheridos.",
    "value": "25%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$8.000/semana",
    "min": 32000,
@@ -4641,7 +4641,7 @@
    "title": "30% en marcas destacadas",
    "desc": "30% de descuento en las marcas destacadas del mes.",
    "value": "30%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "$15.000/mes",
    "min": 50000,
@@ -4664,7 +4664,7 @@
    "title": "30% en gastronomía por el Día del Maestro",
    "desc": "30% de descuento en gastronomía adherida el viernes 11 de septiembre por el Día del Maestro.",
    "value": "30%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [
     "*gastronomia"
    ],
@@ -4687,7 +4687,7 @@
    "title": "25% en YPF Full los fines de semana",
    "desc": "25% de descuento sábados y domingos en las tiendas YPF Full. No aplica a combustible.",
    "value": "25%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [
     "YPF Full"
    ],
@@ -4712,7 +4712,7 @@
    "title": "10% en librerías de texto",
    "desc": "10% de descuento lunes y martes en librerías de texto adheridas, sin tope.",
    "value": "10%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [],
    "tope": "Sin tope",
    "min": null,
@@ -4736,7 +4736,7 @@
    "title": "10% en farmacias y perfumerías",
    "desc": "10% de descuento miércoles y jueves en farmacias y perfumerías adheridas, sin tope.",
    "value": "10%",
-   "pago": "",
+   "pago": "QR",
    "comercios": [
     "*farmacia"
    ],
@@ -4916,7 +4916,7 @@
    "title": "10% en Día los lunes",
    "desc": "10% de descuento los lunes en supermercados Día, sin tope de reintegro.",
    "value": "10%",
-   "pago": "",
+   "pago": "App",
    "comercios": [
     "Día"
    ],
@@ -5921,7 +5921,7 @@
    "title": "10% para mayores de 60 y jubilados",
    "desc": "10% de descuento de lunes a viernes en Carrefour para mayores de 60 años y beneficiarios de ANSES.",
    "value": "10%",
-   "pago": "",
+   "pago": "Crédito o débito",
    "comercios": [
     "Carrefour"
    ],
@@ -7151,7 +7151,9 @@
    "desc": "10% de descuento en lubricantes en los lubricentros afiliados al ACA.",
    "value": "10%",
    "pago": "",
-   "comercios": [],
+   "comercios": [
+    "Lubricentros ACA"
+   ],
    "tope": "",
    "min": null,
    "activar": false,
@@ -7174,7 +7176,9 @@
    "desc": "10% de descuento en las tiendas del ACA presentando el carnet de socio.",
    "value": "10%",
    "pago": "",
-   "comercios": [],
+   "comercios": [
+    "Tiendas ACA"
+   ],
    "tope": "",
    "min": null,
    "activar": false,
@@ -7223,7 +7227,9 @@
    "desc": "20% de descuento en los alojamientos de la red hotelera propia del ACA.",
    "value": "20%",
    "pago": "",
-   "comercios": [],
+   "comercios": [
+    "Hoteles ACA"
+   ],
    "tope": "",
    "min": null,
    "activar": false,
@@ -7246,7 +7252,9 @@
    "desc": "25% de descuento en el lavado del auto en los centros asociados al ACA.",
    "value": "25%",
    "pago": "",
-   "comercios": [],
+   "comercios": [
+    "Centros de lavado ACA"
+   ],
    "tope": "",
    "min": null,
    "activar": false,
