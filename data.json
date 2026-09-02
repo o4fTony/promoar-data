@@ -1,6 +1,6 @@
 {
  "updated": "Septiembre 2026",
- "version": "2026-09-02T20:00:00Z",
+ "version": "2026-09-02T22:00:00Z",
  "promos": [
   {
    "bank": "Banco Nación",
@@ -777,8 +777,8 @@
    "cat": "b",
    "type": "cashback",
    "title": "Descuento en ChangoMás los viernes",
-   "desc": "Descuento los viernes en ChangoMás con tope mensual, más un extra para clientes con cuenta sueldo.",
-   "value": "",
+   "desc": "20% de descuento los viernes en ChangoMás con tarjeta de crédito o débito Galicia.",
+   "value": "20%",
    "pago": "Crédito o débito",
    "comercios": [
     "ChangoMás"
@@ -793,7 +793,7 @@
    "days": [
     "viernes"
    ],
-   "details": "Tope $20.000 mensuales, más $5.000 adicionales para clientes con cuenta sueldo. Vigente hasta el viernes 26/09. Porcentaje no confirmado — verificá en la app.",
+   "details": "Tope $20.000 mensuales, más $5.000 adicionales para clientes con cuenta sueldo. Vigente hasta el viernes 26/09. Porcentaje aproximado — verificá en la app.",
    "source": "https://www.cronista.com/informacion-gral/banco-galicia-sumo-un-beneficio-en-estos-supermercados-y-te-devuelve-20000-en-la-compra/",
    "verif": "dudosa"
   },
@@ -829,11 +829,13 @@
    "bank": "Santander",
    "cat": "b",
    "type": "cashback",
-   "title": "Súper Miércoles: descuentos en comercios adheridos",
-   "desc": "Descuentos todos los miércoles en comercios adheridos pagando con QR desde la app Santander.",
+   "title": "Súper Miércoles en supermercados",
+   "desc": "Descuentos todos los miércoles en supermercados, mayoristas y comercios adheridos, pagando con QR desde la app Santander. El porcentaje varía según el comercio.",
    "value": "",
    "pago": "QR",
-   "comercios": [],
+   "comercios": [
+    "*supermercados"
+   ],
    "tope": "",
    "min": null,
    "activar": false,
@@ -7777,6 +7779,159 @@
    ],
    "details": "Acumulable con el 5% de socios ACA y con el beneficio por cargar de 0 a 6 hs.",
    "source": "https://www.aca.org.ar/descuento-combustibles/",
+   "verif": "secundaria"
+  },
+  {
+   "bank": "VEA Ahorro",
+   "cat": "p",
+   "type": "descuento",
+   "title": "Precios exclusivos para socios",
+   "desc": "Precios y descuentos exclusivos todos los días en Vea presentando el DNI o la credencial VEA Ahorro.",
+   "value": "",
+   "pago": "",
+   "comercios": [
+    "Vea"
+   ],
+   "tope": "",
+   "min": null,
+   "activar": true,
+   "tags": [
+    "Supermercados"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Programa gratuito de Vea (Cencosud). Te adherís online y presentás el DNI en la caja. Los productos con precio socio están marcados en góndola. Pagando con Cencopay crédito hay descuento adicional.",
+   "source": "https://supermercadosvea.com.ar/caba/mi-vea-ahorro/",
+   "verif": "oficial"
+  },
+  {
+   "bank": "VEA Ahorro",
+   "cat": "p",
+   "type": "descuento",
+   "title": "Descuento en el mes de tu cumpleaños",
+   "desc": "Descuento exclusivo en tu compra durante todo el mes de tu cumpleaños para socios VEA Ahorro.",
+   "value": "",
+   "pago": "",
+   "comercios": [
+    "Vea"
+   ],
+   "tope": "",
+   "min": null,
+   "activar": true,
+   "tags": [
+    "Supermercados"
+   ],
+   "when": "Mes del cumpleaños",
+   "days": [
+    "todos"
+   ],
+   "details": "Exclusivo socios VEA Ahorro. El porcentaje no está publicado — verificá en la app o el local.",
+   "source": "https://supermercadosvea.com.ar/caba/mi-vea-ahorro/",
+   "verif": "oficial"
+  },
+  {
+   "bank": "VEA Ahorro",
+   "cat": "p",
+   "type": "descuento",
+   "title": "25% en golosinas, vinos y helados con Shell Box",
+   "desc": "25% de descuento de lunes a jueves en chocolates, golosinas, vinos, champagnes y helados en Vea, con la alianza Shell Box.",
+   "value": "25%",
+   "pago": "",
+   "comercios": [
+    "Vea"
+   ],
+   "tope": "",
+   "min": null,
+   "activar": true,
+   "tags": [
+    "Supermercados"
+   ],
+   "when": "Lunes a jueves",
+   "days": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves"
+   ],
+   "details": "Requiere estar activo en VEA Ahorro y en Shell Box a la vez. Aplica en todos los Vea menos Vea Express, solo en esas categorías. Vigente hasta 31/12/2026.",
+   "source": "https://supermercadosvea.com.ar/alianza/shell-box/",
+   "verif": "oficial"
+  },
+  {
+   "bank": "VEA Ahorro",
+   "cat": "p",
+   "type": "descuento",
+   "title": "10% en Shell V-Power los jueves",
+   "desc": "10% de descuento los jueves cargando Shell V-Power (nafta y diésel) con la alianza VEA Ahorro + Shell Box.",
+   "value": "10%",
+   "pago": "App",
+   "comercios": [
+    "Shell"
+   ],
+   "tope": "$5.000/semana",
+   "min": null,
+   "activar": true,
+   "tags": [
+    "Combustible"
+   ],
+   "when": "Jueves",
+   "days": [
+    "jueves"
+   ],
+   "details": "Requiere estar activo en VEA Ahorro y en Shell Box. Tope $5.000 por carga y por semana. Vigente hasta 31/12/2026.",
+   "source": "https://supermercadosvea.com.ar/alianza/shell-box/",
+   "verif": "oficial"
+  },
+  {
+   "bank": "VEA Ahorro",
+   "cat": "p",
+   "type": "descuento",
+   "title": "15% en lubricantes Shell",
+   "desc": "15% de descuento todos los días en lubricantes Shell Helix, Rimula y Advance con la alianza VEA Ahorro.",
+   "value": "15%",
+   "pago": "App",
+   "comercios": [
+    "Shell"
+   ],
+   "tope": "$5.000",
+   "min": null,
+   "activar": true,
+   "tags": [
+    "Combustible"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Requiere estar activo en VEA Ahorro y en Shell Box. Aplica a Helix, Rimula y Advance en estaciones adheridas. Vigente hasta 31/12/2026.",
+   "source": "https://supermercadosvea.com.ar/alianza/shell-box/",
+   "verif": "oficial"
+  },
+  {
+   "bank": "VEA Ahorro",
+   "cat": "p",
+   "type": "descuento",
+   "title": "15% en Vea con Clarín 365",
+   "desc": "15% de descuento en Vea para socios Clarín 365, más 5% adicional pagando con tarjeta Cencosud.",
+   "value": "15%",
+   "pago": "",
+   "comercios": [
+    "Vea"
+   ],
+   "tope": "",
+   "min": null,
+   "activar": true,
+   "tags": [
+    "Supermercados"
+   ],
+   "when": "Todo el mes",
+   "days": [
+    "todos"
+   ],
+   "details": "Alianza VEA Ahorro con Clarín 365. Con tarjeta de crédito Cencopay suma 5% adicional. Días específicos no publicados — verificá en la app.",
+   "source": "https://supermercadosvea.com.ar/alianza/clarin-365/",
    "verif": "secundaria"
   },
   {
